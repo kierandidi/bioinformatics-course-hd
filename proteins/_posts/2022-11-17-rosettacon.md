@@ -1,6 +1,6 @@
 ---
 layout: post
-title: De novo proteins and where to find them - RosettaCon 2022
+title: Introduction - Why this course?
 image: /assets/img/blog/rosetta_logo.png
 accent_image: 
   background: url('/assets/img/blog/jj-ying.jpg') center/cover
@@ -12,7 +12,7 @@ description: >
 invert_sidebar: true
 ---
 
-# De novo proteins and where to find them - RosettaCon 2022
+# Introduction - Why this course?
 
 There has been a lot happening recently in protein design, and it is easy to get lost in the daily flood of new papers and exciting ideas (for an overview of current models and approaches see [this review](https://www.biorxiv.org/content/10.1101/2022.08.31.505981v1) which includes a great [model table](https://github.com/hefeda/design_tools)). 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Protein Geeks of all nations, unite - APFED 2022
+title: Lesson 1 - The PyMol GUI
 image: /assets/img/blog/apfed_logo.png
 accent_image: 
   background: url('/assets/img/blog/jj-ying.jpg') center/cover
@@ -13,7 +13,7 @@ invert_sidebar: true
 categories: proteins
 ---
 
-# Protein Geeks of all nations, unite - APFED 2022
+# Lesson 1 - The PyMol GUI
 Proteins are an amazing bunch - they control how you think, how you move and so much more while only consisting out of 20 different building blocks (yes, there are metal cofactors, glycosylation, phosphorylation and nowadays even RNA meddling into the protein business, but let's keep it simple for now). So no wonder I was always fascinated by them throughout my studies! Especially antibodies, peptides and how to design them became close to my heart during my time at Cambridge, so I was excited when I heard about the [APFED conference 2022](https://apfed22.uni-bayreuth.de/) in Bayreuth (APFED standing for Advances in Protein Folding, Evolution and Design). Meeting some exciting people and talking about some cool science sounded like quite a good time, especially after the pandemic, and spoiler: It was a good time! Here I want to share with you five cool research projects that I came across during the conference and why they excite me (I recently participated virtually in [RosettaCon 2022](https://www.rosettacommons.org/), more coming on that soon). Have fun!
 
 
