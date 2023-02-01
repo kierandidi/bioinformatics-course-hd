@@ -20,7 +20,7 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Kieran Didi
+title:                 PyMol for Biochemistry
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -61,8 +61,8 @@ menu:
     url:               /projects/
   - title:             Resources
     url:               /publications/
-  - title:             Tags
-    url:               /tags/
+  # - title:             Tags
+  #   url:               /tags/
 
 
 # Add links to the footer.
@@ -97,7 +97,7 @@ theme: jekyll-theme-hydejack
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/antibody.png
+accent_image:          /assets/img/BCK-IMAGE.png
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
@@ -378,11 +378,11 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-social:
-   name:                Kieran Didi
-   links:
-     - https://twitter.com/DidiKieran
-     - https://github.com/kierandidi
+# social:
+#    name:                Kieran Didi
+#    links:
+#      - https://twitter.com/DidiKieran
+#      - https://github.com/kierandidi
 
 
 # Plugin Configs
