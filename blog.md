@@ -1,4 +1,7 @@
 ---
 layout: grid
-title: Home
+title: Lessons
+description: >
+  Here are the lessons for the course.
+no_groups: true
 ---
