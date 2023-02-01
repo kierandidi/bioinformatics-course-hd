@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction - Why this course?
-image: /assets/img/lessons/test.png
+image: /assets/img/lessons/pymol_logo.png
 accent_image: 
   background: url('/assets/img/blog/jj-ying.jpg') center/cover
   overlay: false
