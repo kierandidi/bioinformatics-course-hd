@@ -1,0 +1,4 @@
+---
+layout: grid
+title: Home
+---

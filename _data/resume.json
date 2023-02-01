@@ -1,0 +1,271 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Kieran Didi",
+    "label": "CompBio master's student",
+    "image": "",
+    "email": "kieran.didi@gmail.com",
+    "phone": "",
+    "url": "https://kdidi.netlify.app/",
+    "summary": "Excited about Drug Discovery, Protein Design and Entrepreneurship. ",
+    "location": {
+      "countryCode": "DE",
+      "address": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Kieran Didi",
+        "url": "https://www.linkedin.com/in/me/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "EMBL EBI",
+      "position": "ML Engineer Intern",
+      "startDate": "2022-10-01",
+      "endDate": "",
+      "highlights": [],
+      "summary": "- working on ML for protein design",
+      "url": "https://www.linkedin.com/company/csiro/",
+      "location": "Cambridge, UK"
+    },
+    {
+      "company": "CSIRO",
+      "position": "Software Engineer Intern",
+      "startDate": "2022-07-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": "- developing cloud-native software for DNA analysis using Spark, AWS and Terraform.\n- published an IaC Terraform module for creating EMR Serverless applications on AWS",
+      "url": "https://www.linkedin.com/company/csiro/",
+      "location": "Sydney, New South Wales, Australia"
+    },
+    {
+      "company": "Nucleate UK, Cambridge Chapter",
+      "position": "Communications Lead",
+      "startDate": "2022-07-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": "- Coordinating the communication strategy for Nucleate Cambridge, reaching students, inventors, and investors.",
+      "url": "https://www.linkedin.com/company/csiro/",
+      "location": "Cambridge, UK"
+    },
+    {
+      "company": "PTNG Consulting",
+      "position": "Consultant",
+      "startDate": "2022-06-30",
+      "endDate": "",
+      "highlights": [],
+      "summary": "- conducting ML and bioinformatic analysis as well as literature research in order to communicate insights",
+      "url": "https://www.linkedin.com/company/ptng-consulting/",
+      "location": "Melbourne, Victoria, Australia"
+    },
+    {
+      "company": "University of Cambridge",
+      "position": "Thesis Student",
+      "startDate": "2020-09-30",
+      "endDate": "2021-10-31",
+      "highlights": [],
+      "summary": "- designed peptide therapeutics and worked on screening system (publication in peer-review)\n- built database for high-quality antibody sequences, including data quality control and annotation\n- developed ML models with PyTorch and processing pipeline to quantify nativeness of antibody sequences",
+      "url": "https://www.linkedin.com/school/university-of-cambridge/",
+      "location": "Cambridge, England, United Kingdom"
+    },
+    {
+      "company": "BioMedX Innovation Center",
+      "position": "Research Intern",
+      "startDate": "2019-08-31",
+      "endDate": "2020-04-30",
+      "highlights": [],
+      "summary": "Team IAA in cooperation with Janssen Pharmaceuticals: \n- worked on a screening system for autoimmune diseases\n- identification of auto-antigens, construction of T cell reporter lines",
+      "url": "https://www.linkedin.com/company/biomed-x-institute/",
+      "location": "Heidelberg, Germany"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Nucleate UK",
+      "position": "Communications Lead, Cambridge Chapter",
+      "startDate": "2022-07-31",
+      "endDate": "",
+      "summary": "Organized nationwide comms strategy for empowering biotech talents",
+      "highlights": [],
+      "url": "https://ibo-verein.de/"
+    },
+    {
+      "organization": "Förderverein der Biologie-Olympiade",
+      "position": "Internship Officer",
+      "startDate": "2019-05-31",
+      "endDate": "2022-07-31",
+      "summary": "In the context of the Biology Olympiad, I organize internships for successful and motivated participants and am the responsible coordinator between the pupils and the supervising professors or PhD students.",
+      "highlights": [],
+      "url": "https://ibo-verein.de/"
+    },
+    {
+      "organization": "Studierendenrat Heidelberg",
+      "position": "Conference Coordinator",
+      "startDate": "2018-11-30",
+      "endDate": "2020-09-30",
+      "summary": "As a member of the Conference Administration of the Student Council Heidelberg, I organized and led the conferences and worked together with people from all different backgrounds on proposals.",
+      "highlights": [],
+      "url": "https://www.stura.uni-heidelberg.de/"
+    }
+
+  ],
+  "education": [
+    {
+      "institution": "Heidelberg University",
+      "area": "Biochemistry, focus Computer Science",
+      "studyType": "Master of Science - MS",
+      "startDate": "2021-10-31",
+      "endDate": "2022-10-31",
+      "gpa": "1.0 (best in year, German scale)",
+      "courses": ["machine learning I+II", "operating systems", "networks", "software development", "algorithms & data structures"]
+    },
+    {
+      "institution": "University of Cambridge",
+      "area": "Chemistry (Part II)",
+      "studyType": "Exchange Scholarship",
+      "startDate": "2020-12-31",
+      "endDate": "2021-12-31",
+      "gpa": "/",
+      "courses": ["math. methods", "symmetry", "cheminformatics", "theoretical chemistry", "scientific programming"]
+    },
+    {
+      "institution": "Heidelberg University",
+      "area": "Biochemistry",
+      "studyType": "Bachelor of Science",
+      "startDate": "2018-10-31",
+      "endDate": "2021-09-30",
+      "gpa": "1.0 (best in year, German scale)",
+      "courses": ["bioinformatics", "statistical learning", "molecular biology", "protein engineering", "organic chemistry"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "DAAD and Studienstiftung scholarship",
+      "date": "2022-04-31",
+      "awarder": "DAAD, Studienstiftung",
+      "summary": "Received two scholarships for my master's studies at Cambridge due to academic grades and performance at interviews"
+    },
+    {
+      "title": "Sartorius STEM scholarship",
+      "date": "2021-10-31",
+      "awarder": "Sartorius",
+      "summary": "Received the Sartorius scholarship due to academic achievements and performance at video interview and in-person assesment center"
+    },
+    {
+      "title": "ICU Scholarship",
+      "date": "2019-09-30",
+      "awarder": "QX - Quaterly Crossing",
+      "summary": "One of seven finalists awarded the ICU Scholarship by the business and leadership network QX. The scholarships allows participation in international conferences such as the MBA World Summit or the Leadership Conference, includes intensive management mentoring and a lot of different activities to foster exchange between the scholars and the network."
+    },
+    {
+      "title": "German Academic Foundation Scholarship",
+      "date": "2018-10-31",
+      "awarder": "German Academic Foundation",
+      "summary": "Full scholarship for both undergraduate and master's studies"
+    },
+    {
+      "title": "Silver Medal",
+      "date": "2018-07-01",
+      "awarder": "International Biology Olympiad",
+      "summary": "Came in second in nationwide competition, silver medal at the international competition in Teheran. "
+    },
+    {
+      "title": "NanoBio Vice-winner",
+      "date": "2017-09-01",
+      "awarder": "Deutscher Verband Nanotechnologie e.V.",
+      "summary": "At the \"NanoBio\" Competition, my team and I came in second nationwide for our project in which we constructed artificial muscle fibres out of Nylon and analyzed their properties."
+    },
+    {
+      "title": "DECHEMAX Top 10 Germany ",
+      "date": "2017-05-01",
+      "awarder": "DECHEMA Gesellschaft für Chemische Technik und Biotechnologie e.V.",
+      "summary": "At the \"DECHEMAX\" competition my team and I were chosen as one of the ten best teams in Germany for our experimental performance. "
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Fundamentals of Deep Learning",
+      "issuer": "NVIDIA",
+      "startDate": "2022-06-30",
+      "url": "https://courses.nvidia.com/certificates/14800358ebc948bdbaf306e195c74ff5/"
+    },
+    {
+      "name": "Fundamentals of Deep Learning for Multi-GPUs",
+      "issuer": "NVIDIA",
+      "startDate": "2022-06-30",
+      "url": "https://courses.nvidia.com/certificates/ed43e69f4c834cd48d0cc1e43adb9367/"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Python",
+      "level": "professional",
+      "keywords": []
+    },
+    {
+      "name": "R",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "ML for Biology",
+      "level": "professional",
+      "keywords": []
+    },
+    {
+      "name": "Cloud Computing",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "AWS",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "Terraform",
+      "level": "professional",
+      "keywords": []
+    },
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "Immunology",
+      "level": "professional",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Native Speaker",
+      "language": "German "
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "English"
+    },
+    {
+      "fluency": "Elementary proficiency",
+      "language": "French"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
