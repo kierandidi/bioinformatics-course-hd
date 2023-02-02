@@ -14,7 +14,7 @@ invert_sidebar: true
 
 # Introduction - Why this course?
 
-You might be wondering why we introduced this course this year; the biochemistry courses worked already wel in the past. Well, the world is changing and so are the contents of the curriculum. To dwell on this point a bit more, let's take a look at the biochemistry of today and tomorrow.
+You might be wondering why we introduced this course this year; the biochemistry courses worked nicely in the past. Well, the world is changing and so are the contents of the curriculum. To dwell on this point a bit more, let's take a look at the biochemistry of today and tomorrow.
 
 * toc
 {:toc}
