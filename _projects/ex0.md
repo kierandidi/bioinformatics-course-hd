@@ -13,7 +13,7 @@ image:
 sitemap: false
 ---
 
-# Exercise 1 - Showing proteins from their best side
+# Exercise 0 - Showing proteins from their best side
 
 PyMOL is a fantastic tool for the analysis of biological molecules, both for quick looks and more in-depth analysis. In this assignment we will use some simple tools to look at a structure and see how to change the graphical representation. The assignment deals with many of the same things you have seen in the video "Introduction to PyMOL".
 Before you get started, you must of course have PyMOL installed on your computer (either Mac or PC) just as it is important to use a mouse with both right and left button as well as a middle wheel. The wheel must also have a button function when pressed (3-button mouse). If you do not have such a mouse, it is strongly recommended to acquire one as it is very difficult to control PyMOL from a laptop touchpad, especially on a Mac.

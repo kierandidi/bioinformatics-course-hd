@@ -13,7 +13,7 @@ image:
 sitemap: false
 ---
 
-# Exercise 2 - How do proteins digest food but not themselves?
+# Exercise 1 - How do proteins digest food but not themselves?
 
 In this assignment we will use PyMOL to look at the structure of chymotrypsin, which is described on pages 275-80 in Stryer (Berg et al. Biochemistry). 
 Download the file [chymotrypsin.pse][1] and use it to answer the following questions. Once you have downloaded the file, you can double-click it to open the file in PyMOL if the program is installed or drag-and-drop the file into an opened PyMOL window (my preferred method since you can easily do it with multiple files).
