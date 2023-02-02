@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Exercise 1 - How do proteins digest food but not themselves?
-caption: Getting used to the PyMol GUI
+caption: Learn more about protein function
 description: >
   In this exercise you will look at chymotrypsin and see how it works.
 date: '20-08-2022'
