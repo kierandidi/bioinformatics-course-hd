@@ -81,12 +81,4 @@ The commercial version of PyMol is developed by Schrödinger. It is a very power
 
 
 
-
-## Closing thoughts
-
-
-## Credits
-
-
-
 *[SERP]: Search Engine Results Page
