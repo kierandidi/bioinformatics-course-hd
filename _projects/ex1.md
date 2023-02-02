@@ -73,9 +73,9 @@ The Color menu is used to set a color for an object or selection. This is most u
 
 > Task 8: Use the menus to display 1BL8 only in cartoon and select colors by secondary structure, then rainbow. Identify the correct N terminus of the protein. Why are there so many other "termini"? Use chain-specific staining to understand the quaternary structure of the K+ channel.
 {:.lead}
-
+<!-- 
 * toc
-{:toc}
+{:toc} -->
 
 
 
