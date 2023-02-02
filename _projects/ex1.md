@@ -35,24 +35,24 @@ After the object name it says "1/1" with green, which means that we look at stat
 
 Next to each object or selection are 5 menus indicated by the letters A (Action), S (Show), H (Hide), L (Label), and C (Color). These can be used to control how the object / selection appears visually as well as perform various calculations on them.
 Under Actions, the most important functions are:
-**orient** - moves the object / section into the middle of the field of view
-**center** - sets the rotation center for the selection / object
-**find** - finds polar interactions in a selection / object or between them
-**align** - makes structural alignment of the selection / object
-**rename** - renames the object / selection
-**delete** - deletes the object / selection
-**remove waters** - removes water molecules for better overview
+- **orient** - moves the object / section into the middle of the field of view
+- **center** - sets the rotation center for the selection / object
+- **find** - finds polar interactions in a selection / object or between them
+- **align** - makes structural alignment of the selection / object
+- **rename** - renames the object / selection
+- **delete** - deletes the object / selection
+- **remove waters** - removes water molecules for better overview
 
 > Task 4: Use the Action menu to delete the NMR structure and then to move 1BL8 into the center of view.
 {:.lead}
 
 The Show menu is used to display objects / selections in different graphic representations, the most important of which are:
-**(wire) lines** - Shows all bonds as thin lines with atom colors in the corners.
-**(licorice) sticks** - Like lines, but with thicker sticks.
-**ribbon** - Displays a Cα-trace, i.e. a thick line with a Cα atom in each corner. This is good for getting an overview of secondary structure and comparing folds.
-**cartoon** - Shows a nice presentation of the structure with α helices as ribbons and β strands as arrows. Good for articles and assignments.
-**spheres** - Displays each atom as a sphere with the correct Van der Waals radius.
-**surface** - Displays a surface based on the Van der Waals radius of the atoms.
+- **(wire) lines** - Shows all bonds as thin lines with atom colors in the corners.
+- **(licorice) sticks** - Like lines, but with thicker sticks.
+- **ribbon** - Displays a Cα-trace, i.e. a thick line with a Cα atom in each corner. This is good for getting an overview of secondary structure and comparing folds.
+- **cartoon** - Shows a nice presentation of the structure with α helices as ribbons and β strands as arrows. Good for articles and assignments.
+- **spheres** - Displays each atom as a sphere with the correct Van der Waals radius.
+- **surface** - Displays a surface based on the Van der Waals radius of the atoms.
 Note that an object / selection can have several representations at the same time, which is why it is necessary to hide existing representations when others are added (unless of course you want both at the same time). This is done using the Hide menu.
 In version 2.0 of PyMOL, all new structures appear as a beautiful cartoon representation with ligands in sticks and ions in spheres. In earlier versions of the program, new PDB files will often be loaded as simple lines.
 
@@ -63,10 +63,10 @@ In version 2.0 of PyMOL, all new structures appear as a beautiful cartoon repres
 {:.lead}
 
 The Color menu is used to set a color for an object or selection. This is most useful when making sub-selections of the structure, which we will see later. The most important functions are:
-**by element** - Color an object / selection by atom type, there are several different schemes, of which the classic has carbon atoms in yellow.
-**by chain** - Color an object / selection by chain, ie. if there are several peptide chains, then they each get their own color.
-**by ss** - Color an object / selection according to secondary structure.
-**spectrum rainbow** - Color an object / selection with a ramp from blue N terminus to red C terminus.
+- **by element** - Color an object / selection by atom type, there are several different schemes, of which the classic has carbon atoms in yellow.
+- **by chain** - Color an object / selection by chain, ie. if there are several peptide chains, then they each get their own color.
+- **by ss** - Color an object / selection according to secondary structure.
+- **spectrum rainbow** - Color an object / selection with a ramp from blue N terminus to red C terminus.
 
 > Task 7: Use the menus to display 1BL8 only in sticks and select atomic colors with carbon in yellow.
 {:.lead}
