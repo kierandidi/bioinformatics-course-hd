@@ -1,6 +1,6 @@
 ---
 layout: projects
-title: Projects
+title: Exercises
 show_collection: projects
 description: >
   Here you will find the projects/exercises you will be working on in this course.
