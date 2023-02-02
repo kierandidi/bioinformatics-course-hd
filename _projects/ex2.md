@@ -20,10 +20,10 @@ sitemap: false
 In this assignment we will use PyMOL to look at the structure of chymotrypsin, which is described on pages 275-80 in Stryer (Berg et al. Biochemistry). 
 Download the file [chymotrypsin.pml][1] and use this answer to the following questions. Once you have downloaded the file, you can double-click it to open the file in PyMOL if the program is installed or drag-and-drop the file into an opened PyMOL window.
 
-[1]:{{ site.url }}/assets/assets/downloads/ex1/chymotrypsin.pml
+[1]:{{ site.url }}/assets/downloads/ex1/chymotrypsin.pse
 
-* toc
-{:toc}
+<!-- * toc
+{:toc} -->
 
 Chymotrypsin consists of two β barrels called domains 1 and 2 shown in blue and red, respectively. 
 
