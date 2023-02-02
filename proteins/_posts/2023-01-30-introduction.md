@@ -8,7 +8,7 @@ accent_image:
 accent_color: '#ccc'
 theme_color: '#ccc'
 description: >
-  About the breathtaking pace of innovation in the space and the amazing community that drives it
+  Why we offer this course and what you can expect to learn
 invert_sidebar: true
 ---
 
@@ -33,7 +33,7 @@ List of modules:
 7. Membranes - Pumps and Channels
 8. Evolution and Bioinformatics
 9. Protein Design
-10. Protein Engineering
+10. Animations and Publication Quality Graphics
 
 Along the way, we will be learn to use the following tools:
 
