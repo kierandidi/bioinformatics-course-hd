@@ -14,19 +14,31 @@ invert_sidebar: true
 
 # Introduction - Why this course?
 
-
+You might be wondering why we introduced this course this year; the biochemistry courses worked already wel in the past. Well, the world is changing and so are the contents of the curriculum. To dwell on this point a bit more, let's take a look at the biochemistry of today and tomorrow.
 
 * toc
 {:toc}
 
 
-## Biochemistry of today
+## Biochemistry of Today
 
-## Biochemistry of tomorrow
+A biochemist in the present day performs a wide range of tasks, from conducting experiments to analyzing data. Their main focus is on understanding the chemical processes that occur within living organisms and how these processes can be altered to treat diseases. A biochemist might work in a laboratory setting to study the molecular structure of proteins or enzymes, or they may conduct research on the molecular basis of cellular signaling pathways. In addition to hands-on experimentation, biochemists also use computer programs and simulations to help them understand their data and make predictions about future experiments.
+
+## Biochemistry of Tomorrow
+
+In the future, biochemists will have even more tools at their disposal for understanding and manipulating biological processes. As technology continues to advance, biochemists will be able to collect and analyze data at a faster pace, which will allow them to make more informed decisions about their research. Additionally, the increasing use of computational techniques in biochemistry will allow biochemists to model complex biological systems and make predictions about how different treatments or interventions will affect these systems. This will be particularly useful in developing new drugs or treatments for diseases.
+
+## Importance of Computational Thinking and Coding Skills
+
+Computational thinking and coding skills are becoming increasingly important for biochemists, as the field continues to evolve and become more data-driven. By having the ability to write code, biochemists can automate routine tasks, analyze large amounts of data, and develop new algorithms and models to help them better understand complex biological systems. In addition, they can also collaborate with computer scientists and other professionals to develop new technologies and tools that will allow them to perform their research more effectively. In the future, biochemists who have strong computational thinking and coding skills will be in high demand and will have a significant advantage in their careers.
 
 ## This course
 
-List of modules: 
+With the above in mind, I designed this course to give you an insight into one of most widely used computational tools in biochemistry: PyMol. PyMol is a free, open-source software package that allows you to visualize and analyze protein structures. It is a very powerful tool that can be used to study the structure and function of proteins. In this course, we will learn how to use PyMol to visualize and analyze protein structures, and we will also learn how to use other programs to design new proteins. Along the way, we will also learn how to use Python to automate routine tasks and make our lives easier. 
+
+The aim of this course is to take you the fear of coding and show you how easy it is to use it to automate routine tasks. We will start with the basics, work our way up to more advanced topics and hopefully make you hungry for more!
+
+Here is a list of the modules that we will cover in this course:
 
 1. Introduction to PyMol and the GUI
 2. Protein Structure and function
