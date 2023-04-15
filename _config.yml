@@ -20,7 +20,7 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 PyMol for Biochemistry
+title:                 Structural Bioinformatics
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -42,7 +42,7 @@ logo:                  /assets/img/lessons/pymol_logo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                PyMol for Biochemistry
+  name:                Structural Bioinformatics
   email:               kieran.didi@gmail.com
   picture:
     path:              /assets/img/protein.png
