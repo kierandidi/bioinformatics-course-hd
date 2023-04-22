@@ -20,6 +20,8 @@ This course heavily builds on the material from the following resources:
 
 ### Practicals/Notebooks
 - [Structural Bioinformatics Practical, Alexey Morgunov](https://github.com/alexeymorgunov/structbioinfo)
+- [Cloud-based Tutorials on Structural Bioinformatics](https://github.com/pb3lab/ibm3202)
+- [PyRosetta Notebooks](https://github.com/RosettaCommons/PyRosetta.notebooks)
 
 ### YouTube Channels
 - [PyMOL Ross](https://www.youtube.com/@pymolross)
@@ -34,14 +36,14 @@ This course heavily builds on the material from the following resources:
 This course is designed to be taken in a semester-long format, but can be completed in a shorter time frame. The course is divided into 10 modules with accompanying videos and exercises. The modules are:
 
 1. Introduction to PyMol and the GUI
-2. Protein Structure and function, Protein Structure Prediction
-3. Protein folding and stability, Protein Design I
-4. Enzyme catalysis, Protein Design II
-5. Nucleic Acids
-6. Carbohydrates and Lipids, Simulations I
-7. Membranes - Pumps and Channels, Simulations II
-8. Evolution and Bioinformatics
-9. Machine Learning in Biochemistry
+2. Machine Learning in Biochemistry
+3. Protein Structure and function, Protein Structure Prediction
+4. Protein folding and stability, Protein Design I
+5. Enzyme catalysis, Protein Design II
+6. Nucleic Acids
+7. Carbohydrates and Lipids, Simulations I
+8. Membranes - Pumps and Channels, Simulations II
+9. Evolution and Bioinformatics
 10. Animations and Publication Quality Graphics
 
 I hope you enjoy the course! In case you have any questions or feedback, please feel free to contact me via Mail or Twitter (see buttons on start page).
