@@ -37,9 +37,9 @@ This course is designed to be taken in a semester-long format, but can be comple
 
 1. Introduction to PyMol and the GUI
 2. Machine Learning in Biochemistry
-3. Protein Structure and function, Protein Structure Prediction
+3. Protein structure and function, Potein structure prediction
 4. Protein folding and stability, Protein Design I
-5. Enzyme catalysis, Protein Design II
+5. Enzyme catalysis, protein design II
 6. Nucleic Acids
 7. Carbohydrates and Lipids, Simulations I
 8. Membranes - Pumps and Channels, Simulations II
