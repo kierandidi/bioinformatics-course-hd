@@ -41,28 +41,30 @@ The aim of this course is to take you the fear of coding and show you how easy i
 Here is a list of the modules that we will cover in this course:
 
 1. Introduction to PyMol and the GUI
-2. Protein Structure and function
-3. Protein folding and stability
-4. Enzyme catalysis
+2. Protein Structure and function, Protein Structure Prediction
+3. Protein folding and stability, Protein Design I
+4. Enzyme catalysis, Protein Design II
 5. Nucleic Acids
-6. Carbohydrates and Lipids
-7. Membranes - Pumps and Channels
+6. Carbohydrates and Lipids, Simulations I
+7. Membranes - Pumps and Channels, Simulations II
 8. Evolution and Bioinformatics
-9. Protein Design
+9. Machine Learning in Biochemistry
 10. Animations and Publication Quality Graphics
 
 Along the way, we will be learn to use the following tools:
 
 1. PyMol GUI
 2. PyMol scripting
-3. Python scripting
-4. PDB
-5. UniProt
-6. Blender (for fancy graphics)
+3. Python scripting (mostly in Google Colab)
+4. PDB, UniProt and other databases
+5. AlphaFold2 (in the form of ColabFold)
+6. Different Protein Design Tools
+7. DIfferent Simulation Tools
+8. Blender (for fancy graphics)
 
 ## Prerequisites
 
-There are no prerequisites for this course. However, you will need to have a computer with PyMol installed. 
+There are no prerequisites for this course. We will cover how to install required packages on a case-by-case basis. However, you will need to have a computer with PyMol installed. 
 
 In addition, a mouse is required to use PyMol. If you are using a laptop, you will need to connect an external mouse. Trust me, using PyMol with a trackpad is just not fun. 
 
