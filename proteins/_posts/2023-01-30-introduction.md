@@ -34,21 +34,21 @@ Computational thinking and coding skills are becoming increasingly important for
 
 ## This course
 
-With the above in mind, I designed this course to give you an insight into one of most widely used computational tools in biochemistry: PyMol. PyMol is a free, open-source software package that allows you to visualize and analyze protein structures. It is a very powerful tool that can be used to study the structure and function of proteins. In this course, we will learn how to use PyMol to visualize and analyze protein structures, and we will also learn how to use other programs to design new proteins. Along the way, we will also learn how to use Python to automate routine tasks and make our lives easier. 
+With the above in mind, I designed this course to give you an insight into some of most widely used computational tools in biochemistry. We will start with PyMol, a free, open-source software package that allows you to visualize and analyze protein structures. It is a very powerful tool that can be used to study the structure and function of proteins. We will learn how to use PyMol to visualize and analyze protein structures, and we will also learn how to use other programs to design new proteins. Along the way, we will also learn how to use Python to automate routine tasks and make our lives easier as well as hear a bit of background around Machine Learning and Simulations and how we can use these two tools in Biochemistry.
 
 The aim of this course is to take you the fear of coding and show you how easy it is to use it to automate routine tasks. We will start with the basics, work our way up to more advanced topics and hopefully make you hungry for more!
 
 Here is a list of the modules that we will cover in this course:
 
 1. Introduction to PyMol and the GUI
-2. Protein Structure and function, Protein Structure Prediction
-3. Protein folding and stability, Protein Design I
-4. Enzyme catalysis, Protein Design II
-5. Nucleic Acids
-6. Carbohydrates and Lipids, Simulations I
-7. Membranes - Pumps and Channels, Simulations II
-8. Evolution and Bioinformatics
-9. Machine Learning in Biochemistry
+2. Machine Learning in Biochemistry
+3. Protein structure and function, Potein structure prediction
+4. Protein folding and stability, Protein Design I
+5. Enzyme catalysis, protein design II
+6. Nucleic Acids
+7. Carbohydrates and Lipids, Simulations I
+8. Membranes - Pumps and Channels, Simulations II
+9. Evolution and Bioinformatics
 10. Animations and Publication Quality Graphics
 
 Along the way, we will be learn to use the following tools:
@@ -68,7 +68,7 @@ There are no prerequisites for this course. We will cover how to install require
 
 In addition, a mouse is required to use PyMol. If you are using a laptop, you will need to connect an external mouse. Trust me, using PyMol with a trackpad is just not fun. 
 
-You can also download the [PyMol cheatsheet](https://pymolwiki.org/index.php/CheatSheet). It seems like a lot of information, but you will be surprised how quickly you will be able to find what you are looking for once you went through the course.
+You can also download the [PyMol cheatsheet](https://pymolwiki.org/index.php/CheatSheet). It seems like a lot of information, but you will be surprised how quickly you will be able to find what you are looking for once you worked a bit with it.
 
 There are two different versions of PyMol: the free version and the commercial version developed by Schrödinger.
 

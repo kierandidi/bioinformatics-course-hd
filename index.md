@@ -4,7 +4,7 @@ title: About
 cover: true
 ---
 
-Hey everyone! This is a course about structural bioinformatics and tools you can use it to visualize and analyze protein and other structures. It is taught in the biochemistry undergraduate course at [Heidelberg University](https://www.uni-heidelberg.de/en), but the material is open to be used by everyone. By the end of this course, you will be able to use programs such as PyMol to visualize and analyze protein structures and use your biochemical knowledge to interrogate and even design novel molecules. You will also be able to create publication-quality figures. 
+Hey everyone! This is a course about structural bioinformatics and tools you can use it to visualize and analyze proteins and other structures. It is taught in the biochemistry undergraduate course at [Heidelberg University](https://www.uni-heidelberg.de/en), but the material is open to be used by everyone. By the end of this course, you will be able to use programs such as PyMol to visualize and analyze protein structures and use your biochemical knowledge to interrogate and even design novel molecules. You will also be able to create publication-quality figures. 
 
 This course heavily builds on the material from the following resources:
 
