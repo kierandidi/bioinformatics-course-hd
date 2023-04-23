@@ -17,11 +17,13 @@ This course heavily builds on the material from the following resources:
 - [PyRosetta Jupyter Notebooks Teach Biomolecular Structure Prediction and Design](https://meridian.allenpress.com/the-biophysicist/article/2/1/108/464092/PyRosetta-Jupyter-Notebooks-Teach-Biomolecular)
 - [Teaching structural bioinformatics at the undergraduate level](https://iubmb.onlinelibrary.wiley.com/doi/full/10.1002/bmb.2003.494031060287)
 - [Developing and Implementing Cloud-Based Tutorials That Combine Bioinformatics Software, Interactive Coding, and Visualization Exercises for Distance Learning on Structural Bioinformatics](https://pubs.acs.org/doi/10.1021/acs.jchemed.1c00022)
+- [Introduction to artificial intelligence and deep learning using interactive electronic programming notebooks](https://onlinelibrary.wiley.com/doi/10.1002/ardp.202200628)
 
 ### Practicals/Notebooks
 - [Structural Bioinformatics Practical, Alexey Morgunov](https://github.com/alexeymorgunov/structbioinfo)
 - [Cloud-based Tutorials on Structural Bioinformatics](https://github.com/pb3lab/ibm3202)
 - [PyRosetta Notebooks](https://github.com/RosettaCommons/PyRosetta.notebooks)
+- [Introduction to AI via Cheminformatics](https://github.com/kochgroup/intro_pharma_ai)
 
 ### YouTube Channels
 - [PyMOL Ross](https://www.youtube.com/@pymolross)
