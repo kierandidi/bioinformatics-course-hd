@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Exercise 2 - Machine Learning in Biochemistry
+title: Exercise 2 - PyMOL scripting
 caption: Start using the PyMol scripting language
 description: >
   We will now start using the PyMol scripting language to create our own scripts. This will allow us to automate tasks and create more complex visualizations.
@@ -14,4 +14,7 @@ sitemap: false
 ---
 
 # Exercise 2 - PyMOL scripting
+
+
+
 
