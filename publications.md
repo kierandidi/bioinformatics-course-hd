@@ -16,8 +16,9 @@ Here you will find resources relevant to the course and to computational thinkin
 - [Introduction to Data Analysis with R](https://jmbuhr.de/dataIntro20/), course by Jannik Buhr (former biochemistry student at Heidelberg)
 - [Missing Semester](https://missing.csail.mit.edu/), useful practical programming skills that make your life easier (can be intimidating at first, but don't worry if you do not understand everything the first time!)
 
-### Machine Learning Intro Resources
+### Machine Learning Resources
 
 - [fast.ai course](https://www.fast.ai/), starts with practical coding and then goes on to explain the math behind it.
 - [Deep Learning Course by Andrew NG](https://www.coursera.org/specializations/deep-learning?utm_medium=sem&utm_source=gg&utm_campaign=B2C_EMEA_deep-learning_deeplearning-ai_FTCOF_specializations_country-UK-country-GB&campaignid=19970507700&adgroupid=154882314224&device=c&keyword=andrew%20ng%20deep%20learning%20course&matchtype=b&network=g&devicemodel=&adposition=&creativeid=654977645500&hide_mobile_promo&gclid=CjwKCAjwrpOiBhBVEiwA_473dBBhCJytS9XD908HNDaa4_bFUfTVsXuDxo_J-Vb0uNhPyUo7bNr21hoC6NUQAvD_BwE), by now a classic in the field
+- [List of Resources](https://dauparas.github.io/post/learning/) from Justas Dauparas, researcher in Protein Design and creator of ProteinMPNN, a popular tool for Protein Design.
 
