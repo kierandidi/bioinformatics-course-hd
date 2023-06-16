@@ -16,7 +16,7 @@ invert_sidebar: true
 
 
 
-
+![Bloom's taxonomy](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcitt.ufl.edu%2Fresources%2Fthe-learning-process%2Fdesigning-the-learning-experience%2Fblooms-taxonomy%2F&psig=AOvVaw0R780i-w_ndUrB188eKcBY&ust=1687014747847000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMi29eeJyP8CFQAAAAAdAAAAABAE)
 
 
 *[SERP]: Search Engine Results Page
