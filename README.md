@@ -6,7 +6,7 @@ This course is designed to be taken in a semester-long format, but can be comple
 
 1. Introduction to Structural Bioinformatics (PyMol, Jupyter Notebooks, Python)
 2. Machine Learning in Biochemistry (Google Colab, PyTorch)
-3. Protein structure and function, Potein structure prediction (AlphaFold, OpenFold)
+3. Protein structure and function, Protein structure prediction (AlphaFold, OpenFold)
 4. Protein folding and stability, Protein Design I (PyRosetta, FoldIt)
 5. Enzyme catalysis, protein design II (RFDiffusion, ProteinMPNN, AlphaFold)
 6. Nucleic Acids and transcription factors (PyMol)
@@ -16,7 +16,7 @@ This course is designed to be taken in a semester-long format, but can be comple
 10. Drug Design and Docking (Biotite, AutoDock Vina)
 11. Animations and Publication Quality Graphics (PyMol, Blender, DrawIO, Inkscape)
 
-I hope you enjoy the course! In case you have any questions or feedback, please feel free to contact me.
+I hope you enjoy the course! In case you have any questions or feedback (or find any mistakes in the material), please feel free to contact me.
 
 This course heavily builds on the material from the following resources:
 

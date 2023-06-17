@@ -38,29 +38,19 @@ With the above in mind, I designed this course to give you an insight into some 
 
 The aim of this course is to take you the fear of coding and show you how easy it is to use it to automate routine tasks. We will start with the basics, work our way up to more advanced topics and hopefully make you hungry for more!
 
-Here is a list of the modules that we will cover in this course:
+Here is a list of the modules that we will cover in this course (with the tools that we will use in brackets):
 
-1. Introduction to PyMol and the GUI
-2. Machine Learning in Biochemistry
-3. Protein structure and function, Potein structure prediction
-4. Protein folding and stability, Protein Design I
-5. Enzyme catalysis, protein design II
-6. Nucleic Acids
-7. Carbohydrates and Lipids, Simulations I
-8. Membranes - Pumps and Channels, Simulations II
-9. Evolution and Bioinformatics
-10. Animations and Publication Quality Graphics
-
-Along the way, we will be learn to use the following tools:
-
-1. PyMol GUI
-2. PyMol scripting
-3. Python scripting (mostly in Google Colab)
-4. PDB, UniProt and other databases
-5. AlphaFold2 (in the form of ColabFold)
-6. Different Protein Design Tools
-7. DIfferent Simulation Tools
-8. Blender (for fancy graphics)
+1. Introduction to Structural Bioinformatics (PyMol, Jupyter Notebooks, Python)
+2. Machine Learning in Biochemistry (Google Colab, PyTorch)
+3. Protein structure and function, Protein structure prediction (AlphaFold, OpenFold)
+4. Protein folding and stability, Protein Design I (PyRosetta, FoldIt)
+5. Enzyme catalysis, protein design II (RFDiffusion, ProteinMPNN, AlphaFold)
+6. Nucleic Acids and transcription factors (PyMol)
+7. Carbohydrates and Lipids, Simulations I (GROMACS, NAMD)
+8. Membranes - Pumps and Channels, Simulations II (GROMACS, NAMD, Python)
+9. Evolution and Bioinformatics (Biotite, BLAST, MMSeq2, FoldSeek)
+10. Drug Design and Docking (Biotite, AutoDock Vina)
+11. Animations and Publication Quality Graphics (PyMol, Blender, DrawIO, Inkscape)
 
 ## Prerequisites
 

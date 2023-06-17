@@ -90,15 +90,15 @@ When you click on an atom, PyMOL writes something like:
 The information tells us that in object 1BL8, segment A, chain A, we clicked on residue Phe103 and the atom CG (Cγ). In practice, segment ID is always equal to chain ID, so therefore it says A twice. The PDB format does not support Greek characters, so the atom names are translated into the most similar Latin letters:
 
 
-| Atom name  	| Pronounciation 	| PDB name 	|
-|------------	|----------------	|----------	|
-| $\alpha$   	| alpha          	| A        	|
-| $\beta$    	| beta           	| B        	|
-| $\gamma$   	| gamma          	| G        	|
-| $\delta$   	| delta          	| D        	|
-| $\epsilon$ 	| epsilon        	| E        	|
-| $\zeta$    	| zeta           	| Z        	|
-| $\nu$      	| nu             	| H        	|
+| Atom name  | Pronunciation | PDB name |
+|------------|---------------|----------|
+| &alpha;    | alpha         | A        |
+| &beta;     | beta          | B        |
+| &gamma;    | gamma         | G        |
+| &delta;    | delta         | D        |
+| &epsilon;  | epsilon       | E        |
+| &zeta;     | zeta          | Z        |
+| &nu;       | nu            | H        |
 
 C$\alpha$ is thus called CA, O$\gamma$ is called OG and so on. Sometimes (e.g. in Asp) there may be two identical atoms in the same position, whereby they are named 1 and 2, e.g. the two carboxyl atoms in Asp are called OD1 and OD2.
 
