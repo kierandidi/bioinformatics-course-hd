@@ -1,8 +1,8 @@
 # Structural Bioinformatics Course - Kieran Didi, Heidelberg University, WS 2023/24
 
-Hey everyone! This is a course about structural bioinformatics and tools you can use it to visualize, analyze and design proteins and other structures. It is taught in the biochemistry undergraduate course at [Heidelberg University](https://www.uni-heidelberg.de/en), but the material is open to be used by everyone. By the end of this course, you will be able to use programs such as PyMol to visualize and analyze protein structures and use your biochemical knowledge to interrogate and even design novel molecules. You will also be able to create publication-quality figures. 
+Hey everyone! This is a course about structural bioinformatics and tools you can use it to visualize, analyze and design proteins and other structures. It is taught in the [biochemistry undergraduate course](https://www.uni-heidelberg.de/en/study/all-subjects/biochemistry/biochemistry-bachelor-100) at [Heidelberg University](https://www.uni-heidelberg.de/en), but the material is open to be used by everyone. By the end of this course, you will be able to use programs such as PyMol to visualize and analyze protein structures and use your biochemical knowledge to interrogate and even design novel molecules. You will also be able to create publication-quality figures. 
 
-This course is designed to be taken in a semester-long format, but can be completed in a shorter time frame. The course is divided into 10 modules with accompanying videos and exercises. The modules (with the tools we use in brackets) are:
+This course is designed to be taken in a semester-long format, but can be completed in a shorter time frame. The course is divided into 11 modules with accompanying videos and exercises. The modules (with the tools we use in brackets) are:
 
 1. Introduction to Structural Bioinformatics (PyMol, Jupyter Notebooks, Python)
 2. Machine Learning in Biochemistry (Google Colab, PyTorch)
