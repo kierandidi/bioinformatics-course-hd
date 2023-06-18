@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lesson 6 - Nucleic Acids and Transcription Factors
+title: Lesson 11 - Animations and Publication Quality Graphics
 image: /assets/img/lessons/myoglobinborder-min.png
 accent_image: 
   background: url('/assets/img/blog/jj-ying.jpg') center/cover
@@ -12,7 +12,8 @@ description: >
 invert_sidebar: true
 ---
 
-# Lesson 6 - Nucleic Acids and Transcription Factors
+# Lesson 11 - Animations and Publication Quality Graphics
+
 
 
 

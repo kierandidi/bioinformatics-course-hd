@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Exercise 2 - PyMOL scripting
+title: Exercise 6 - Nucleic Acids and transcription factors
 caption: Start using the PyMol scripting language
 description: >
   We will now start using the PyMol scripting language to create our own scripts. This will allow us to automate tasks and create more complex visualizations.
@@ -13,7 +13,7 @@ image:
 sitemap: false
 ---
 
-# Exercise 2 - PyMOL scripting
+# Exercise 6 - Nucleic Acids and transcription factors
 
 
 
