@@ -1,9 +1,9 @@
 ---
 layout: project
 title: Exercise 2 - Machine Learning in Biochemistry
-caption: Start using the PyMol scripting language
+caption: The revolution will not be televised
 description: >
-  We will now start using the PyMol scripting language to create our own scripts. This will allow us to automate tasks and create more complex visualizations.
+  How machine learning is impacting biochemistry and how you can use it in your research and studies
 date: '20-08-2022'
 image: 
   path: /assets/img/exercises/pymol_scripting.jpg
@@ -13,5 +13,5 @@ image:
 sitemap: false
 ---
 
-# Exercise 2 - PyMOL scripting
+# Exercise 2 - Machine Learning in Biochemistry
 

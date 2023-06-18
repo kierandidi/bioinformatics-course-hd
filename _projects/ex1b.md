@@ -19,8 +19,9 @@ sitemap: false
 
 The purpose of this assignment is to understand the difference between selections and objects in PyMOL, which is very important in order to be able to use the program effectively.
 Basically,
-object - a structure or group of atoms incl. their position, atomic type, occupancy and temperature factor. You can think of an object as the structure itself or the PDB file. An object is created using the "create" command.
-selection - a set of atoms or chains in an object. It is important to understand that a selection does not itself contain the structure but is only a selection of atoms in another object. A selection is created using the command "select"
+
+`object` - a structure or group of atoms incl. their position, atomic type, occupancy and temperature factor. You can think of an object as the structure itself or the PDB file. An object is created using the "create" command.
+`selection` - a set of atoms or chains in an object. It is important to understand that a selection does not itself contain the structure but is only a selection of atoms in another object. A selection is created using the command "select"
 An object can thus exist without a selection, but a selection cannot be found without an object (at least not with any content).
 
 > Task 1: Retrieve the structure of the K+ channel from Streptomyces from the previous exercise using the "fetch 1BL8" command. 
