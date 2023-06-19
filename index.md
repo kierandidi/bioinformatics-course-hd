@@ -10,18 +10,18 @@ Hey everyone! This is a course about structural bioinformatics and tools you can
 
 This course is designed to be taken in a semester-long format, but can be completed in a shorter time frame. The course is divided into 11 modules with accompanying videos and exercises. The modules (with the tools we use in brackets) are:
 
-| BC1 Content                    	| SB Content                               	| Tools                               	|   	|   	|   	|   	|   	|   	|   	|   	|
-|--------------------------------	|------------------------------------------	|-------------------------------------	|---	|---	|---	|---	|---	|---	|---	|---	|
-| Introduction                   	| Introduction                             	| PyMol, Python, Jupyter Notebooks    	|   	|   	|   	|   	|   	|   	|   	|   	|
-| Water                          	| ML 101 (Neural nets, CNNs, Transformers) 	| Google Colab, PyTorch               	|   	|   	|   	|   	|   	|   	|   	|   	|
-| Protein structure and function 	| Geometric Deep Learning (GNNs)           	| PyTorch                             	|   	|   	|   	|   	|   	|   	|   	|   	|
-| Protein folding and stability  	| Protein structure prediction             	| AlphaFold, OpenFold, ESMFold        	|   	|   	|   	|   	|   	|   	|   	|   	|
-| Enzyme catalysis               	| Generative Modelling                     	| VAE, GANs, Diffusion models         	|   	|   	|   	|   	|   	|   	|   	|   	|
-| Carbohydrates                  	| Protein Design                           	| RFDiffusion, ProteinMPNN, AlphaFold 	|   	|   	|   	|   	|   	|   	|   	|   	|
-| Nucleic Acids                  	| Simulations                              	| GROMACS                             	|   	|   	|   	|   	|   	|   	|   	|   	|
-| Lipids                         	| Evolution and Bioinformatics             	| Biotite, BLAST, MMSeq2, FoldSeek    	|   	|   	|   	|   	|   	|   	|   	|   	|
-| Membranes                      	| Drug Design (Docking and Generative)     	| AutoDock, DiffDock, DiffSBDD        	|   	|   	|   	|   	|   	|   	|   	|   	|
-| Signaltransduction             	| Graphics and Animations                  	| PyMol, DrawIO, Inkscape             	|   	|   	|   	|   	|   	|   	|   	|   	|
+| Week 	| BC1 Content                    	| SB Content                               	| Tools                               	|
+|------	|--------------------------------	|------------------------------------------	|-------------------------------------	|
+| 1    	| Introduction                   	| Introduction                             	| PyMol, Python, Jupyter Notebooks    	|
+| 2    	| Water                          	| ML 101 (Neural nets, CNNs, Transformers) 	| Google Colab, PyTorch               	|
+| 3    	| Protein structure and function 	| Geometric Deep Learning (GNNs)           	| PyTorch                             	|
+| 4    	| Protein folding and stability  	| Protein structure prediction             	| AlphaFold, OpenFold, ESMFold        	|
+| 5    	| Enzyme catalysis               	| Generative Modelling                     	| VAE, GANs, Diffusion models         	|
+| 6    	| Carbohydrates                  	| Protein Design                           	| RFDiffusion, ProteinMPNN, AlphaFold 	|
+| 7    	| Nucleic Acids                  	| Simulations                              	| GROMACS                             	|
+| 8    	| Lipids                         	| Evolution and Bioinformatics             	| Biotite, BLAST, MMSeq2, FoldSeek    	|
+| 9    	| Membranes                      	| Drug Design (Docking and Generative)     	| AutoDock, DiffDock, DiffSBDD        	|
+| 10   	| Signaltransduction             	| Graphics and Animations                  	| PyMol, DrawIO, Inkscape             	|
 
 1. Introduction to Structural Bioinformatics (PyMol, Jupyter Notebooks, Python)
 2. Machine Learning in Biochemistry (Google Colab, PyTorch)
