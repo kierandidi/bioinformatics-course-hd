@@ -9,7 +9,7 @@ This course is designed to be taken in a semester-long format, but can be comple
 3. Protein structure and function, Protein structure prediction (AlphaFold, OpenFold)
 4. Protein folding and stability, Protein Design I (PyRosetta, FoldIt)
 5. Enzyme catalysis, protein design II (RFDiffusion, ProteinMPNN, AlphaFold)
-6. Nucleic Acids and transcription factors (PyMol)
+6. Nucleic Acids and Transcription Factors (PyMol)
 7. Carbohydrates and Lipids, Simulations I (GROMACS, NAMD)
 8. Membranes - Pumps and Channels, Simulations II (GROMACS, NAMD, Python)
 9. Evolution and Bioinformatics (Biotite, BLAST, MMSeq2, FoldSeek)

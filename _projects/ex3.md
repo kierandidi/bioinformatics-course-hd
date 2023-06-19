@@ -15,6 +15,19 @@ sitemap: false
 
 # Exercise 3 - Protein structure and function, protein structure prediction
 
+## CATH
+
+There are several different classifications of observed protein structures:
+- [CATH](http://www.cathdb.info/)
+- [SCOP](http://scop2.mrc-lmb.cam.ac.uk/)
+- [DALI](http://ekhidna.biocenter.helsinki.fi/dali/start)
+
+In this assignment we will use CATH, which classifies domains into four levels: Folding Class, Architecture, Topology and Homology.
+Go to the CATH website and select "Browse" in the top line.
+
+
+
+
 
 
 

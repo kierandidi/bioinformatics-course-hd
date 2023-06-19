@@ -14,6 +14,6 @@ invert_sidebar: true
 
 # Lesson 2 - Machine Learning in Biochemistry
 
-
+[post about machine learning in protein engineering](https://www.ptngconsulting.com/blog/machine-learning-for-protein-engineering-here-to-stay)
 
 *[SERP]: Search Engine Results Page
