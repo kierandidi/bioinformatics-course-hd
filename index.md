@@ -8,7 +8,9 @@ cover: true
 
 Hey everyone! This is a course about structural bioinformatics and tools you can use it to visualize, analyze and design proteins and other structures. It is taught in the biochemistry undergraduate course at [Heidelberg University](https://www.uni-heidelberg.de/en), but the material is open to be used by everyone. By the end of this course, you will be able to use programs such as PyMol to visualize and analyze protein structures and use your biochemical knowledge to interrogate and even design novel molecules. You will also be able to create publication-quality figures. 
 
-This course is designed to be taken in a semester-long format, but can be completed in a shorter time frame. The course is divided into 11 modules with accompanying videos and exercises. The modules (with the tools we use in brackets) are:
+This course (Structural Bioinformatics, SB) is designed to be taken in a semester-long format, but can be completed in a shorter time frame. The course is divided into 11 modules with accompanying videos and exercises and is running in parallel to the Biochemistry I (BC1) course. The idea is that these courses are complementary to each other; you will learn the underlying biochemistry in BC1, the underlying machine learning concepts in SB and get hands-on experience with some of these algorithms in the live sessions which we will do online. 
+
+The modules (with the tools we use in brackets) are:
 
 | Week 	| BC1 Content                    	| SB Content                               	| Tools                               	|
 |------	|--------------------------------	|------------------------------------------	|-------------------------------------	|
@@ -21,25 +23,15 @@ This course is designed to be taken in a semester-long format, but can be comple
 | 7    	| Nucleic Acids                  	| Simulations                              	| GROMACS                             	|
 | 8    	| Lipids                         	| Evolution and Bioinformatics             	| Biotite, BLAST, MMSeq2, FoldSeek    	|
 | 9    	| Membranes                      	| Drug Design (Docking and Generative)     	| AutoDock, DiffDock, DiffSBDD        	|
-| 10   	| Signaltransduction             	| Graphics and Animations                  	| PyMol, DrawIO, Inkscape             	|
-
-1. Introduction to Structural Bioinformatics (PyMol, Jupyter Notebooks, Python)
-2. Machine Learning in Biochemistry (Google Colab, PyTorch)
-3. Protein structure and function, Protein structure prediction (AlphaFold, OpenFold)
-4. Protein folding and stability, Protein Design I (PyRosetta, FoldIt)
-5. Enzyme catalysis, protein design II (RFDiffusion, ProteinMPNN, AlphaFold)
-6. Nucleic Acids and transcription factors (PyMol)
-7. Carbohydrates and Lipids, Simulations I (GROMACS, NAMD)
-8. Membranes - Pumps and Channels, Simulations II (GROMACS, NAMD, Python)
-9. Evolution and Bioinformatics (Biotite, BLAST, MMSeq2, FoldSeek)
-10. Drug Design and Docking (Biotite, AutoDock Vina)
-11. Animations and Publication Quality Graphics (PyMol, Blender, DrawIO, Inkscape)
+| 10   	| Signal transduction             	| Graphics and Animations                  	| PyMol, DrawIO, Inkscape             	|
+| 11   	| End of lecture                 	| Further topics and conclusion             |                                   	|
 
 I hope you enjoy the course! In case you have any questions or feedback (or find any mistakes in the material), please feel free to contact me.
 
-This course heavily builds on the material from the following resources:
+Whereas the main reference for the BC1 course is the classical [Lehninger](https://www.macmillanlearning.com/college/ca/product/Lehninger-Principles-of-Biochemistry/p/1319228003), the content of this SB course is evolving so rapidly that there is no canoical textbook yet. Therefore, many of the resources we will work with will be online tutorials, blog posts as well as original research papers. In addition, this course heavily builds on the material from the following resources:
 
 ### Publications
+- [Introduction to Structural Bioinformatics](https://research.vu.nl/en/publications/preface-to-introduction-to-structural-bioinformatics)
 - [A Semester-Long Learning Path Teaching Computational Skills via Molecular Graphics in PyMOL](https://meridian.allenpress.com/the-biophysicist/article/3/2/106/489572/A-Semester-Long-Learning-Path-Teaching)
 - [Development of a Broadly Accessible, Computationally Guided Biochemistry Course-Based Undergraduate Research Experience](https://pubs.acs.org/doi/10.1021/acs.jchemed.0c01073?ref=pdf), developed by members of the Rosetta Commons project
 - [Computer-Aided Drug Design for Undergraduates](https://pubs.acs.org/doi/10.1021/acs.jchemed.8b00712)
@@ -63,6 +55,7 @@ This course heavily builds on the material from the following resources:
 - [LuminousLab](https://www.youtube.com/@LuminousLab)
 
 ### Websites
+- [Programming for Lovers](https://compeau.cbd.cmu.edu/programming-for-lovers/)
 - [PyMol Wiki](https://pymolwiki.org/index.php/Main_Page)
 - [Design2Data program](https://d2d.ucdavis.edu/)
 

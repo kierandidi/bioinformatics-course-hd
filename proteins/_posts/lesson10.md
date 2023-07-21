@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lesson 10 - Drug Design and Docking
+title: Lesson 10 - Graphics and Animations
 image: /assets/img/lessons/myoglobinborder-min.png
 accent_image: 
   background: url('/assets/img/blog/jj-ying.jpg') center/cover
@@ -12,7 +12,13 @@ description: >
 invert_sidebar: true
 ---
 
-# Lesson 10 - Drug Design and Docking
+# Lesson 10 - Graphics and Animations	
+
+### Required reading for this lesson
+- 
+
+### Optional reading for this lesson
+- 
 
 
 

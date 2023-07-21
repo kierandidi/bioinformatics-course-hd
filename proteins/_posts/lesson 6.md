@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lesson 6 - Nucleic Acids and Transcription Factors
+title: Lesson 6 - Protein Design	
 image: /assets/img/lessons/myoglobinborder-min.png
 accent_image: 
   background: url('/assets/img/blog/jj-ying.jpg') center/cover
@@ -12,9 +12,17 @@ description: >
 invert_sidebar: true
 ---
 
-# Lesson 6 - Nucleic Acids and Transcription Factors
+# Lesson 6 - Protein Design	
+
+### Required reading for this lesson
+- [High level TED talk from David Baker about protein design](https://www.youtube.com/watch?v=PJLT0cAPNfs)
+- [High level C&EN article about protein design](https://cen.acs.org/physical-chemistry/protein-folding/Generative-AI-dreaming-new-proteins/101/i12)
+- [Video Chloe Hsu | Deep Learning in Structural Biology and Protein Design: How, Where, and Why](https://www.youtube.com/watch?v=UJGtwUFQKfs&t=2309s)
 
 
+### Optional reading for this lesson
+- [Video RFDiffusion authors](https://www.youtube.com/watch?v=wIHwHDt2NoI)
+- [State of the field talk by David Baker](https://www.youtube.com/watch?v=-H27Kv5duYA)
 
 
 *[SERP]: Search Engine Results Page

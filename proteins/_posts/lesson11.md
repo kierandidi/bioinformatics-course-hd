@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lesson 11 - Animations and Publication Quality Graphics
+title: Lesson 11 - Further topics and conclusion
 image: /assets/img/lessons/myoglobinborder-min.png
 accent_image: 
   background: url('/assets/img/blog/jj-ying.jpg') center/cover
@@ -12,7 +12,13 @@ description: >
 invert_sidebar: true
 ---
 
-# Lesson 11 - Animations and Publication Quality Graphics
+# Lesson 11 - Further topics and conclusion
+
+### Required reading for this lesson
+- 
+
+### Optional reading for this lesson
+- 
 
 
 

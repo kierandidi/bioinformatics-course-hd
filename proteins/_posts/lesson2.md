@@ -14,6 +14,15 @@ invert_sidebar: true
 
 # Lesson 2 - Machine Learning in Biochemistry
 
-[post about machine learning in protein engineering](https://www.ptngconsulting.com/blog/machine-learning-for-protein-engineering-here-to-stay)
+### Required reading for this lesson
+
+- [4 videos on neural networks by 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [post about machine learning in protein engineering](https://www.ptngconsulting.com/blog/machine-learning-for-protein-engineering-here-to-stay)
+
+
+### Optional reading for this lesson
+- [FastAI course: Practical Deep Learning for Coders](https://course.fast.ai/)
+
+
 
 *[SERP]: Search Engine Results Page

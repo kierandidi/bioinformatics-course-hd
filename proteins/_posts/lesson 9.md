@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lesson 9 - Evolution and Bioinformatics
+title: Lesson 9 - Drug Design (Docking and Generative)
 image: /assets/img/lessons/myoglobinborder-min.png
 accent_image: 
   background: url('/assets/img/blog/jj-ying.jpg') center/cover
@@ -12,7 +12,13 @@ description: >
 invert_sidebar: true
 ---
 
-# Lesson 9 - Evolution and Bioinformatics
+# Lesson 9 - Drug Design (Docking and Generative)
+
+### Required reading for this lesson
+- 
+
+### Optional reading for this lesson
+- 
 
 
 

@@ -1,20 +1,24 @@
 # Structural Bioinformatics Course - Kieran Didi, Heidelberg University, WS 2023/24
 
-Hey everyone! This is a course about structural bioinformatics and tools you can use it to visualize, analyze and design proteins and other structures. It is taught in the [biochemistry undergraduate course](https://www.uni-heidelberg.de/en/study/all-subjects/biochemistry/biochemistry-bachelor-100) at [Heidelberg University](https://www.uni-heidelberg.de/en), but the material is open to be used by everyone. By the end of this course, you will be able to use programs such as PyMol to visualize and analyze protein structures and use your biochemical knowledge to interrogate and even design novel molecules. You will also be able to create publication-quality figures. 
+Hey everyone! This is a course about structural bioinformatics and tools you can use it to visualize, analyze and design proteins and other structures. It is taught in the biochemistry undergraduate course at [Heidelberg University](https://www.uni-heidelberg.de/en), but the material is open to be used by everyone. By the end of this course, you will be able to use programs such as PyMol to visualize and analyze protein structures and use your biochemical knowledge to interrogate and even design novel molecules. You will also be able to create publication-quality figures. 
 
-This course is designed to be taken in a semester-long format, but can be completed in a shorter time frame. The course is divided into 11 modules with accompanying videos and exercises. The modules (with the tools we use in brackets) are:
+This course (Structural Bioinformatics, SB) is designed to be taken in a semester-long format, but can be completed in a shorter time frame. The course is divided into 11 modules with accompanying videos and exercises and is running in parallel to the Biochemistry I (BC1) course. The idea is that these courses are complementary to each other; you will learn the underlying biochemistry in BC1, the underlying machine learning concepts in SB and get hands-on experience with some of these algorithms in the live sessions which we will do online. 
 
-1. Introduction to Structural Bioinformatics (PyMol, Jupyter Notebooks, Python)
-2. Machine Learning in Biochemistry (Google Colab, PyTorch)
-3. Protein structure and function, Protein structure prediction (AlphaFold, OpenFold)
-4. Protein folding and stability, Protein Design I (PyRosetta, FoldIt)
-5. Enzyme catalysis, protein design II (RFDiffusion, ProteinMPNN, AlphaFold)
-6. Nucleic Acids and Transcription Factors (PyMol)
-7. Carbohydrates and Lipids, Simulations I (GROMACS, NAMD)
-8. Membranes - Pumps and Channels, Simulations II (GROMACS, NAMD, Python)
-9. Evolution and Bioinformatics (Biotite, BLAST, MMSeq2, FoldSeek)
-10. Drug Design and Docking (Biotite, AutoDock Vina)
-11. Animations and Publication Quality Graphics (PyMol, Blender, DrawIO, Inkscape)
+The modules (with the tools we use in brackets) are:
+
+| Week 	| BC1 Content                    	| SB Content                               	| Tools                               	|
+|------	|--------------------------------	|------------------------------------------	|-------------------------------------	|
+| 1    	| Introduction                   	| Introduction                             	| PyMol, Python, Jupyter Notebooks    	|
+| 2    	| Water                          	| ML 101 (Neural nets, CNNs, Transformers) 	| Google Colab, PyTorch               	|
+| 3    	| Protein structure and function 	| Geometric Deep Learning (GNNs)           	| PyTorch                             	|
+| 4    	| Protein folding and stability  	| Protein structure prediction             	| AlphaFold, OpenFold, ESMFold        	|
+| 5    	| Enzyme catalysis               	| Generative Modelling                     	| VAE, GANs, Diffusion models         	|
+| 6    	| Carbohydrates                  	| Protein Design                           	| RFDiffusion, ProteinMPNN, AlphaFold 	|
+| 7    	| Nucleic Acids                  	| Simulations                              	| GROMACS                             	|
+| 8    	| Lipids                         	| Evolution and Bioinformatics             	| Biotite, BLAST, MMSeq2, FoldSeek    	|
+| 9    	| Membranes                      	| Drug Design (Docking and Generative)     	| AutoDock, DiffDock, DiffSBDD        	|
+| 10   	| Signal transduction             	| Graphics and Animations                  	| PyMol, DrawIO, Inkscape             	|
+| 11   	| End of lecture                 	| Further topics and conclusion             |                                   	|
 
 I hope you enjoy the course! In case you have any questions or feedback (or find any mistakes in the material), please feel free to contact me.
 
@@ -44,6 +48,7 @@ This course heavily builds on the material from the following resources:
 - [LuminousLab](https://www.youtube.com/@LuminousLab)
 
 ### Websites
+- [Programming for Lovers](https://compeau.cbd.cmu.edu/programming-for-lovers/)
 - [PyMol Wiki](https://pymolwiki.org/index.php/Main_Page)
 - [Design2Data program](https://d2d.ucdavis.edu/)
 

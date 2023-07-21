@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lesson 8 - Membranes - Pumps and Channels, Simulations II
+title: Lesson 8 - Evolution and Bioinformatics
 image: /assets/img/lessons/myoglobinborder-min.png
 accent_image: 
   background: url('/assets/img/blog/jj-ying.jpg') center/cover
@@ -12,8 +12,16 @@ description: >
 invert_sidebar: true
 ---
 
-# Lesson 8 - Membranes - Pumps and Channels, Simulations II
+# Lesson 8 - Evolution and Bioinformatics
 
+### Required reading for this lesson
+- [Video Playlist on Sequence Alignments](https://www.youtube.com/watch?v=slUaVeNvuTk&list=PLQ-85lQlPqFNmbPEsMoxb5dM5qtRaVShn)
+- [Textbook Chapter on Structure Alignment](http://arxiv.org/abs/2307.02170)
+- Videos on [global sequence alignment](https://www.youtube.com/watch?v=ipp-pNRIp4g) versus [local sequence alignment](https://www.youtube.com/watch?v=lu9ScxSejSE&list=TLPQMjEwNzIwMjPG6vLp-w7KnQ&index=2)
+
+
+### Optional reading for this lesson
+- Overview Videos on Biotite: [Intro](https://www.youtube.com/watch?v=SfgiRYrR1rQ) and [New Features](https://www.youtube.com/watch?v=dbiXm6W9WZQ)
 
 
 
