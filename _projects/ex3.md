@@ -1,9 +1,9 @@
 ---
 layout: project
-title: Exercise 3 - Protein structure and function, protein structure prediction
-caption: Start using the PyMol scripting language
+title: Exercise 3 - Geometric Deep Learning
+caption: How can we describe molecules on the computer?
 description: >
-  We will now start using the PyMol scripting language to create our own scripts. This will allow us to automate tasks and create more complex visualizations.
+  In this exercise you will get familiar with how to leverage concepts from graphs and machine learning to make your algorithm learn something about molecules
 date: '20-08-2022'
 image: 
   path: /assets/img/exercises/pymol_scripting.jpg
