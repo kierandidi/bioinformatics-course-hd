@@ -1,19 +1,19 @@
 ---
 layout: project
-title: Carbohydrates and Lipids, Simulations I
-caption: Start using the PyMol scripting language
+title: Exercise 7 - Simulations
+caption: How we can go beyond static protein structures
 description: >
-  We will now start using the PyMol scripting language to create our own scripts. This will allow us to automate tasks and create more complex visualizations.
+  In this exercise you will apply some of the concepts you learned in the lessons about molecular simulations.
 date: '20-08-2022'
 image: 
-  path: /assets/img/exercises/pymol_scripting.jpg
+  path: /assets/img/lessons/simulations.png
 #links:
 #  - title: Link
 #    url: https://hydejack.com/
 sitemap: false
 ---
 
-# Carbohydrates and Lipids, Simulations I
+# Exercise 7 - Simulations
 
 
 

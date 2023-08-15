@@ -1,19 +1,19 @@
 ---
 layout: project
-title: Exercise 8 - Membranes, Pumps and Channels, Simulations II
-caption: Start using the PyMol scripting language
+title: Exercise 8 - Evolution and Bioinformatics
+caption: Why proteins are not as simple as dog images
 description: >
-  We will now start using the PyMol scripting language to create our own scripts. This will allow us to automate tasks and create more complex visualizations.
+  In this exercise you will be asked to reflect on some of the principles of evolution we talked about in the lecture and how they impact how we employ machine learning tools.
 date: '20-08-2022'
 image: 
-  path: /assets/img/exercises/pymol_scripting.jpg
+  path: /assets/img/lessons/1tub_1fsz_super.png
 #links:
 #  - title: Link
 #    url: https://hydejack.com/
 sitemap: false
 ---
 
-# Exercise 8 Membranes, Pumps and Channels, Simulations II
+# Exercise 8 - Evolution and Bioinformatics
 
 
 

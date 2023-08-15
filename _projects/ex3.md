@@ -6,14 +6,14 @@ description: >
   In this exercise you will get familiar with how to leverage concepts from graphs and machine learning to make your algorithm learn something about molecules
 date: '20-08-2022'
 image: 
-  path: /assets/img/exercises/pymol_scripting.jpg
+  path: /assets/img/lessons/gnn_molecules.png
 #links:
 #  - title: Link
 #    url: https://hydejack.com/
 sitemap: false
 ---
 
-# Exercise 3 - Protein structure and function, protein structure prediction
+# Exercise 3 - Geometric Deep Learning
 
 ## CATH
 

@@ -1,19 +1,19 @@
 ---
 layout: project
-title: Exercise 9 - Evolution and Bioinformatics
-caption: Start using the PyMol scripting language
+title: Exercise 9 - Drug Design (Docking and Generative)
+caption: Small molecules for the win
 description: >
-  We will now start using the PyMol scripting language to create our own scripts. This will allow us to automate tasks and create more complex visualizations.
+  In this exercise you are asked to look at some of the generative models for small molecules we talked about in the lecture and see how well they work via docking.
 date: '20-08-2022'
 image: 
-  path: /assets/img/exercises/pymol_scripting.jpg
+  path: /assets/img/lessons/docking.png
 #links:
 #  - title: Link
 #    url: https://hydejack.com/
 sitemap: false
 ---
 
-# Exercise 9 - Evolution and Bioinformatics
+# Exercise 9 - Drug Design (Docking and Generative)
 
 
 
