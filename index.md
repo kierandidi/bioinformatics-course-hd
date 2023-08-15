@@ -41,6 +41,7 @@ Whereas the main reference for the BC1 course is the classical [Lehninger](https
 - [Teaching structural bioinformatics at the undergraduate level](https://iubmb.onlinelibrary.wiley.com/doi/full/10.1002/bmb.2003.494031060287)
 - [Developing and Implementing Cloud-Based Tutorials That Combine Bioinformatics Software, Interactive Coding, and Visualization Exercises for Distance Learning on Structural Bioinformatics](https://pubs.acs.org/doi/10.1021/acs.jchemed.1c00022)
 - [Introduction to artificial intelligence and deep learning using interactive electronic programming notebooks](https://onlinelibrary.wiley.com/doi/10.1002/ardp.202200628)
+- [TeachOpenCADD: a teaching platform for computer-aided drug design using open source packages and data](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0351-x)
 
 ### Practicals/Notebooks
 - [Structural Bioinformatics Practical, Alexey Morgunov](https://github.com/alexeymorgunov/structbioinfo)
