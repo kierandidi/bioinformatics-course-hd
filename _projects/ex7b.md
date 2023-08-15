@@ -4,7 +4,7 @@ title: Exercise 7b - Nucleic Acids and transcription factors
 caption: Love at first sight
 description: >
   We will learn how DNA and proteins interact with each other.
-date: '20-08-2022'
+date: '12-08-2023'
 image: 
   path: /assets/img/exercises/pymol_scripting.jpg
 #links:

@@ -3,15 +3,15 @@ layout: project
 title: Exercise 2b - A Zoo of Models
 caption: The revolution will not be televised
 description: >
-  How machine learning is impacting biochemistry and how you can use it in your research and studies
-date: '20-08-2022'
+  In this exercise your understanding of the different model classes presented in the lecture is testeds
+date: '05-08-2023'
 image: 
-  path: /assets/img/exercises/pymol_scripting.jpg
+  path: /assets/img/lessons/nn_zoo.png
 #links:
 #  - title: Link
 #    url: https://hydejack.com/
 sitemap: false
 ---
 
-# Exercise 2 - Machine Learning in Biochemistry
+# Exercise 2b - A Zoo of Models
 

@@ -4,7 +4,7 @@ title: Exercise 8 - Evolution and Bioinformatics
 caption: Why proteins are not as simple as dog images
 description: >
   In this exercise you will be asked to reflect on some of the principles of evolution we talked about in the lecture and how they impact how we employ machine learning tools.
-date: '20-08-2022'
+date: '13-08-2023'
 image: 
   path: /assets/img/lessons/1tub_1fsz_super.png
 #links:

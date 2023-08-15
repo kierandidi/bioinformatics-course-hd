@@ -4,7 +4,7 @@ title: Exercise 1a - How do proteins digest food but not themselves?
 caption: Learn more about protein function
 description: >
   In this exercise you will look at chymotrypsin and see how it works.
-date: '20-08-2022'
+date: '02-08-2023'
 image: 
   path: /assets/img/exercises/chymotrypsin-min.png
 #links:

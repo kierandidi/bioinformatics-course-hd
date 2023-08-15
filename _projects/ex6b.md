@@ -4,7 +4,7 @@ title: Exercise 6b - Enzyme Design
 caption: How enzymes do their job and how we can learn from them
 description: >
   We will look at some examples of catalysis and try our luck in designing some enzymes ourselves!
-date: '20-08-2022'
+date: '10-08-2023'
 image: 
   path: /assets/img/exercises/pymol_scripting.jpg
 #links:

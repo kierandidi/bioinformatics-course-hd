@@ -1,12 +1,12 @@
 ---
 layout: project
 title: Exercise 2 - Machine Learning in Biochemistry
-caption: The revolution will not be televised
+caption: The revolution will not be supervised
 description: >
-  How machine learning is impacting biochemistry and how you can use it in your research and studies
-date: '20-08-2022'
+  In this exercise you will be asked to review the ML concepts from the lecture and build your own small models
+date: '04-08-2023'
 image: 
-  path: /assets/img/exercises/pymol_scripting.jpg
+  path: /assets/img/lessons/ml_biochemistry.jpeg
 #links:
 #  - title: Link
 #    url: https://hydejack.com/
