@@ -18,3 +18,6 @@ sitemap: false
 
 
 
+## Credits
+
+The title image was taken from a [blog post](https://www.ptngconsulting.com/blog/machine-learning-for-protein-engineering-here-to-stay) I have written as part of my consulting activities for PTNG.

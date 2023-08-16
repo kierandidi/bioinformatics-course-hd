@@ -15,19 +15,7 @@ sitemap: false
 
 # Exercise 3 - Geometric Deep Learning
 
-## CATH
 
-There are several different classifications of observed protein structures:
-- [CATH](http://www.cathdb.info/)
-- [SCOP](http://scop2.mrc-lmb.cam.ac.uk/)
-- [DALI](http://ekhidna.biocenter.helsinki.fi/dali/start)
+### Credits
 
-In this assignment we will use CATH, which classifies domains into four levels: Folding Class, Architecture, Topology and Homology.
-Go to the CATH website and select "Browse" in the top line.
-
-
-
-
-
-
-
+Image was taken from the [GNN 101 notebook](https://colab.research.google.com/github/chaitjo/geometric-gnn-dojo/blob/main/geometric_gnn_101.ipynb) by Chaintaya Joshi.

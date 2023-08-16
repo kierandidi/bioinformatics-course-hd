@@ -6,7 +6,7 @@ description: >
   We will look at some examples of catalysis and try our luck in designing some enzymes ourselves!
 date: '10-08-2023'
 image: 
-  path: /assets/img/exercises/pymol_scripting.jpg
+  path: /assets/img/lessons/rna_polymerase.png
 #links:
 #  - title: Link
 #    url: https://hydejack.com/
@@ -70,7 +70,9 @@ Due to the massive problem of plastic pollution worldwide, there is enormous int
 Now let's see if we can try to design some enzymes.
 
 
+### Credits
 
+The title image was taken from the [PDB-101 resource](https://pdb101.rcsb.org/learn/flyers-posters-and-calendars/poster/award-winning-rna-polymerase-illustration), where it was presented as the national finalist in the 2019 Wiki Science Competition in the United States.
 
 
 

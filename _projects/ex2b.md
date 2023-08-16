@@ -15,3 +15,7 @@ sitemap: false
 
 # Exercise 2b - A Zoo of Models
 
+
+### Credit
+
+The title image of this exercise is from an excellent review paper by Mohammed AlQuraishi & Peter K. Sorger called [Differentiable Biology](https://www.nature.com/articles/s41592-021-01283-4); a highly recommended read!

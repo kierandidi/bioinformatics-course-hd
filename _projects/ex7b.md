@@ -6,7 +6,7 @@ description: >
   We will learn how DNA and proteins interact with each other.
 date: '12-08-2023'
 image: 
-  path: /assets/img/exercises/pymol_scripting.jpg
+  path: /assets/img/lessons/dna_tf.png
 #links:
 #  - title: Link
 #    url: https://hydejack.com/
@@ -129,3 +129,8 @@ The distance function can take an extra argument called mode, which has several 
 
 > Task 14: Make a scene called F4, which shows hydrogen bonds between recognition element (residues 8-14) and DNA. Which amino acids make H-bonds to the bases? What other types of interactions contribute to binding specificity?
 {:.lead}
+
+
+### Credits
+
+The title image was taken from the [PDB 101 resource](https://pdb101.rcsb.org/motm/112), where it was posted to highlight the transcription factors Oct and Sox as molecules of the month.

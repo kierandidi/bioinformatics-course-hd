@@ -18,3 +18,6 @@ sitemap: false
 
 
 
+## Credits
+
+The image was taken from the [Stable Diffusion repository](https://github.com/Stability-AI/stablediffusion/blob/main/assets/stable-samples/txt2img/768/merged-0002.png) by StabilityAI.
