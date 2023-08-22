@@ -1,19 +1,19 @@
 ---
 layout: project
-title: Exercise 7 - Simulations
-caption: How we can go beyond static protein structures
+title: Exercise 7 - Protein Design
+caption: How to create novel proteins
 description: >
-  In this exercise you will apply some of the concepts you learned in the lessons about molecular simulations.
-date: '11-08-2023'
+  In this exercise you will be asked to walk through the protein design pipeline we talked about in the lecture with a real-world target and evaluate how well your designs fare.
+date: '09-08-2023'
 image: 
-  path: /assets/img/lessons/simulations.png
+  path: /assets/img/lessons/protein_design.png
 #links:
 #  - title: Link
 #    url: https://hydejack.com/
 sitemap: false
 ---
 
-# Exercise 7 - Simulations
+# Exercise 7 - Protein Design
 
 
 

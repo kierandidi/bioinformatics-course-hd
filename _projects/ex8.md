@@ -1,19 +1,19 @@
 ---
 layout: project
-title: Exercise 8 - Evolution and Bioinformatics
-caption: Why proteins are not as simple as dog images
+title: Exercise 8 - Simulations
+caption: How we can go beyond static protein structures
 description: >
-  In this exercise you will be asked to reflect on some of the principles of evolution we talked about in the lecture and how they impact how we employ machine learning tools.
-date: '13-08-2023'
+  In this exercise you will apply some of the concepts you learned in the lessons about molecular simulations.
+date: '11-08-2023'
 image: 
-  path: /assets/img/lessons/1tub_1fsz_super.png
+  path: /assets/img/lessons/simulations.png
 #links:
 #  - title: Link
 #    url: https://hydejack.com/
 sitemap: false
 ---
 
-# Exercise 8 - Evolution and Bioinformatics
+# Exercise 8 - Simulations
 
 
 

@@ -1,19 +1,19 @@
 ---
 layout: project
-title: Exercise 9 - Drug Design (Docking and Generative)
-caption: Small molecules for the win
+title: Exercise 9 - Evolution and Bioinformatics
+caption: Why proteins are not as simple as dog images
 description: >
-  In this exercise you are asked to look at some of the generative models for small molecules we talked about in the lecture and see how well they work via docking.
-date: '14-08-2023'
+  In this exercise you will be asked to reflect on some of the principles of evolution we talked about in the lecture and how they impact how we employ machine learning tools.
+date: '13-08-2023'
 image: 
-  path: /assets/img/lessons/docking.png
+  path: /assets/img/lessons/1tub_1fsz_super.png
 #links:
 #  - title: Link
 #    url: https://hydejack.com/
 sitemap: false
 ---
 
-# Exercise 9 - Drug Design (Docking and Generative)
+# Exercise 9 - Evolution and Bioinformatics
 
 
 

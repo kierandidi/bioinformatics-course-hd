@@ -1,21 +1,21 @@
 ---
 layout: project
-title: Exercise 3 - Geometric Deep Learning
-caption: How can we describe molecules on the computer?
+title: Exercise 3 - A Zoo of Models
+caption: The revolution will not be televised
 description: >
-  In this exercise you will get familiar with how to leverage concepts from graphs and machine learning to make your algorithm learn something about molecules
-date: '06-08-2023'
+  In this exercise your understanding of the different model classes presented in the lecture is testeds
+date: '05-08-2023'
 image: 
-  path: /assets/img/lessons/gnn_molecules.png
+  path: /assets/img/lessons/nn_zoo.png
 #links:
 #  - title: Link
 #    url: https://hydejack.com/
 sitemap: false
 ---
 
-# Exercise 3 - Geometric Deep Learning
+# Exercise 2b - A Zoo of Models
 
 
 ### Credits
 
-Image was taken from the [GNN 101 notebook](https://colab.research.google.com/github/chaitjo/geometric-gnn-dojo/blob/main/geometric_gnn_101.ipynb) by Chaintaya Joshi.
+The title image of this exercise is from an excellent review paper by Mohammed AlQuraishi & Peter K. Sorger called [Differentiable Biology](https://www.nature.com/articles/s41592-021-01283-4); a highly recommended read!

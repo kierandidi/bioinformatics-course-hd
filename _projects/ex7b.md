@@ -1,136 +1,78 @@
 ---
 layout: project
-title: Exercise 7b - Nucleic Acids and transcription factors
-caption: Love at first sight
+title: Exercise 7b - Enzyme Design
+caption: How enzymes do their job and how we can learn from them
 description: >
-  We will learn how DNA and proteins interact with each other.
-date: '12-08-2023'
+  We will look at some examples of catalysis and try our luck in designing some enzymes ourselves!
+date: '10-08-2023'
 image: 
-  path: /assets/img/lessons/dna_tf.png
+  path: /assets/img/lessons/rna_polymerase.png
 #links:
 #  - title: Link
 #    url: https://hydejack.com/
 sitemap: false
 ---
 
-# Exercise 7b - Nucleic Acids and transcription factors
+# Exercise 7b - Enzyme Design
 
-## Introduction
+## Catalytic antibodies 
 
-In this assignment you will learn how proteins recognize DNA (or vice versa) in order to enter into a specific ("romantic") interaction with each other. The secret behind the specific interaction between amino acids and DNA bases is described by the so-called “groove code”. As seen in the figure below, there are exposed H-bond donors and acceptors in both major and minor groove and these are the ones that the amino acids can recognize and bind to.
+An antibody that specifically binds the chemical compound B also catalyzes the degradation of compounds 3-5 as indicated below.
 
-<img src="/assets/img/exercises/groove_code.png" width="500">
+<img src="/assets/img/exercises/ex5/catalytic_ab.png" width="500">
 
-> Task 1: Explain why there is more specificity in binding to major groove than to minor groove. Which amino acids are often used for sequence-specific recognition and why?
+> Task 1: Explain how the antibody can catalyze these reactions.
 {:.lead}
 
-The groove code can be a little difficult to spot when analyzing a DNA double helix in PyMOL, but with the right representation it becomes clearer: the [DNA-groove.pml][1] script shows the DNA double helix as a spheres where H-bond acceptors are colored red, H-bond donors blue, methyl groups green and non-polar hydrogen atoms yellow.
+The antibody has so-called "broad substrate specificity", ie. it can degrade very different substances. To investigate how this can be done, an attempt was made to solve the structure of the antibody in complex with substance 1, but this proved unsuccessful. However, crystals of the complex between the antibody and compound 2 (PDB structure 5XQW) were obtained. The structure is given below, where the heavy chain of the antibody is shown in green, the light chain in turquoise and compound 2 in yellow (for the carbon atoms).
 
-[1]:{{ site.url }}/assets/downloads/ex5/DNA-groove.pml
+<img src="/assets/img/exercises/ex5/cat_ab_struc.png" width="500">
 
-The sphere representation shows the Van der Waals radius of atoms and thus gives a picture of the realistic shape and volume of the molecule. Coloring of the atoms is seen more clearly due to their size. On the other hand, it is not easy to evaluate the chemical composition (as seen with sticks) or the secondary structure (as seen with cartoon).
-{:.note title="PyMOL info"}
-
-Open a DNA double helix with PDB ID: 1BNA in PyMOL and remove water molecules with the PyMOL command `remove solvent`. Now use the `DNA-groove.pml` script to change the representation and color the donors and acceptors in the grooves. Rotate the molecule so that you look down into the major groove (so that the symmetry becomes clear).
-
-> Task 2: What's special about the groove code pattern of this double helix DNA?
+> Task 2: Based on the structure, explain why the antibody has broad specificity.
 {:.lead}
 
-## The TATA-box
+## Biological plastic degradation
 
-The TATA box binding protein (TBP) is involved in promoter recognition to initiate transcription by the RNA polymerase. The TATA box is an 8-base pair region of the promoter that is usually located 30 nucleotides before the transcription start site (TSS). The consensus sequence is TATA(A/T)A(A/T)(G/A).
-Open the [TATA.pml][2] script in PyMOL. `F1` shows the binding of TBP along the helical axis of DNA double helix.
+The last 50-70 years have witnessed a colossal accumulation of synthetically produced plastic as waste in nature. Mostly this waste is buried in landfills or incinerated. However, a large part is dispersed in Nature, where it is slowly physically broken down into smaller particles. Very little enzyme-driven degradation of plastic takes place. The structures of the most common classes of plastics are shown below.
 
-[2]:{{ site.url }}/assets/downloads/ex5/TATA.pml
+<img src="/assets/img/exercises/ex5/plastics.png" width="500">
 
-> Task 3: In which groove of the DNA double helix does TBP bind?
+> Task 3: From a chemical perspective, why is it a challenge for enzymes to degrade these substances? Which compound groups are expected to be hardest and easiest to degrade and why? What does this have to do with drug design?
 {:.lead}
 
-Groove can be identified by zooming in on base pairs and identifying the Högsteen and sugar edge. You can show a base pair using the command “show sticks, resi 7+23” and zoom in to examine it with the commands “zoom resi 7+23” and adjust the depth with the mouse wheel so that the focus is on the base pair. Then rotate so you can see the base pair from the side. Press F2 to display this view.
-{:.note title="PyMOL info"}
+Nevertheless, various enzymes have been identified that (albeit slowly) degrade different types of plastic. Some of these are produced by microorganisms that grow in a landfill for primarily PET plastic. One enzyme (PETase) degrades PET to MHET, while another enzyme (a MHETase) degrades MHET to PTA and EG (see reaction scheme below).
 
-Use the groove code script (`DNA-groove.pml`) to display the DNA double helix as a spherical model, where H-bond acceptors are colored red, H-bond donors blue, methyl groups green and non-polar hydrogen atoms yellow. Hide TBP to analyse the groove pattern.
+<img src="/assets/img/exercises/ex5/petase_mechanism.png" width="500">
 
-> Task 4: What characterizes the groove pattern where TBP binds? What secondary structure element of TBP binds to the DNA groove? 
+The structure of MHETase in the presence of the compound benzoate has been solved (see below).
+
+<img src="/assets/img/exercises/ex5/MHETase_structure.png" width="500">
+
+The active site in MHETase works (like some proteases) through a so-called catalytic triad consisting of a histidine, an aspartate and a serine residue. Write a short script that downloads MHETase (PDB-ID: 6QGA) and PETase (PDB-ID: 5XH3) and removes surplus versions of the proteins. Align the two structures with `super`. 
+
+> Task 4: Describe the difference between the two structures, find the active site and try to explain why the MHETase has a domain that the PETase does not have, given that the MHETase has a very low kcat.
 {:.lead}
 
-Press `F3/F4` to see an important element in the DNA-protein binding, where two phenylalanines intercalate between two base pairs.
+A hybrid enzyme consisting of an MHETase and a PETase linked to an 8-amino acid residue linker is now prepared. Its ability to form TPA from PET is measured and compared with (1) the PETase alone and (2) the PETase together with the MHETase (in the ratio 1: 1). This gives the following result:
 
-> Task 5:	How are the two base pairs affected by the intercalation of two phenylalanines? Which standard parameter for the relative orientation of bases best describes the conformation of these two base pairs?
+<img src="/assets/img/exercises/ex5/assay_data.png" width="500">
+
+> Task 5:	Explain the different activity levels of the three enzymes.
 {:.lead}
 
-## Mad-Max
+## Designing enzymes for plastic degradation
 
-Max-Myc-Mad is a heterodimeric transcription factor system that binds specifically to the DNA segment CACGTG as three different complexes: Myc-Max, Max-Max and Mad-Max. According to the authors of the original article on the Max-Myc-Mad system, the naming of Mad (the second protein in the Mad-Max heterodimer) has nothing to do with the movie of the same name, but comes from the abbreviation of "Max dimerization". Copy/Paste the PyMOL script [Mad-Max.pml][3] and run it in PyMOL. Press `F1` to view the Myc-Max complex, press `F2` to view the Max-Max complex, and `F3` to view the Mad-Max complex.
+Due to the massive problem of plastic pollution worldwide, there is enormous interest in designing new enzymes that degrade plastic. In 2022, a team from Texas published a study about [machine learning guided design of a PETase](https://www.nature.com/articles/s41586-022-04599-z) (with accompanying [News&Views article](https://www.nature.com/articles/d41586-022-01075-6)). 
 
-[3]:{{ site.url }}/assets/downloads/ex5/Mad-Max.pml
-
-> Task 6:	Describe the composition of the dimerization domain and the property of the α-helices that binds DNA. In which groove do Myc-Max, Max-Max and Mad-Max bind?
+> Task 6: Skim the paper and shortly summarise the rough approach the authors took. Which of the paradigms of machine learning (supervised learning, reinforcement learning, ...) did they use? What is the input and output to their model, and what data did they train/test their model on?
 {:.lead}
 
-Orient the molecule in PyMOL so that you look down along the pseudosymmetry axis of Myc-Max and then hide Myc-Max so that only the DNA double helix is visible. Use the groove code script (DNA-groove.pml) to display the groove pattern.
-
-> Task 7:	What is characteristic of the pattern of H-bond donor and acceptors?
-{:.lead}
-
-Press `F4` to see how the recognition helixes in Myc-Max interact with the DNA segment.
-Press `F5` to see how the recognition helixes in Max-Max interact with the DNA segment.
-
-Press `F6` to see how the recognition helix in Mad-Max interacts with the DNA segment.
-
-> Task 8: Describe the hydrogen bonds of the three amino acids (His, Glu, Arg) in recognition helices in Myc-Max by specifying which bases and which atoms of the bases are involved in binding. Are there other interactions than with the bases? Are the interactions symmetrical in Myc-Max, Max-Max and Mad-Max and why?
-{:.lead}
-
-Use the menu `Mouse > Selection mode > Atoms` to better identify the individual atoms that are part of the hydrogen bonds.
-{:.note title="PyMOL info"}
-
-## A TALE of DNA
-
-Transcription factor-like effector nucleases (TALENs) bind specific DNA sequences using a series of DNA-binding domains called TALE repeats. TALEN proteins can be designed to recognize and cleave specific DNA sequences and can thus be used for genome editing. TALE proteins are discussed in Stryer “Biochemistry” 9th edition, section 5.4, and the structure can be seen in figure 5.38.
-Open the attached TALE.pml script in PyMOL. Press `F1` and `F2` to see the DNA-protein complex from the side and along the helix axis, respectively. Press `F3` to see sphere representation, where you can more easily see the repeat structure. Press `F4` to see a specific interaction between protein and DNA.
-
-> Task 9: Describe the hydrogen bonds of the three amino acids (His, Glu, Arg) in recognition helices in Myc-Max by specifying which bases and which atoms of the bases are involved in binding. Are there other interactions than with the bases? Are the interactions symmetrical in Myc-Max, Max-Max and Mad-Max and why?
-{:.lead}
-
-Each TALE repeat contains 34 amino acids and two alpha helices, but only two amino acid residues are responsible for the unique recognition of a single nucleotide in the DNA double helix.
-Press `F4-F7` to see how TALE repeats recognize specific nucleotides. 
-
-> Task 10: Describe which amino acids interact with which bases and what type of interaction it is. Which edge of the bases is involved in the interaction and which of the DNA strands is recognized?
-{:.lead}
-
-One can design TALE proteins by organizing the order of TALE repeats according to the DNA sequence to be recognized.
-
-> Task 11: 3.	Suggest which protein functionalities can be put at the end of a TALE protein domain and describe what biological effects it can have and/or what technological possibilities it can provide.
-{:.lead}
-
-## Arc repressor
-
-Here you will analyze DNA-protein binding in PyMOL. You will learn how to color proteins according to secondary structure and how to find polar bonds between two selections.
-{:.note title="PyMOL info"}
-
-Arc repressor (PDB ID: 1BDT) is a transcription factor from bacteriophage P22 that inhibits its own gene arc. Arc repressor binds cooperatively as two dimers to a 21-base pair operator site. The DNA operator sequence is shown below, where the TAGA sequence is colored gray. The pseudo-symmetry axis of the inverted repeat passes through the central G-C base pair.
-
-<img src="/assets/img/exercises/arc_repressor.png" width="500">
-
-> Task 12: Create a script that retrieves the Arc repressor and shows the DNA-protein complex down along the axis of symmetry of the inverted repeat. Use the groove code script (DNA-groove.pml) to format the DNA helix. Save the scene named F1. What is characteristic of the pattern of H-bond donors and acceptors at the two binding sites on DNA and what is this type of recognition sequence called? What is the benefit of this type of binding?
-{:.lead}
-
-When coloring proteins by secondary structure, there is no single command that does. You have to color each type, alpha helices, beta strands and loops, individually. Loops contain all secondary structures that are not beta strands or alpha helices. You have previously learned that the property selector for secondary structure is `ss`. PyMOL's name for alpha helices, beta stands and loops is `h`, `s` and `l+""`, respectively. As an example, you can color loops white with the command `color white, ss l+""`.
-{:.note title="PyMOL info"}
-
-> Task 13: Create a new scene named F2 that shows the interaction of DNA with the protein. Describe the binding of the Arc protein to DNA. What type of protein-secondary structure binds to which groove on the DNA double helix? Describe how you observe which groove is being bound.
-{:.lead}
-
-Interactions between DNA and proteins are best represented if DNA is shown with sticks and colored by element and protein is shown with cartoon and colored by secondary structure.
-{:.note title="Hint"}
-
-The distance function can take an extra argument called mode, which has several settings, but the most important are mode = 0 and mode = 2. With the mode setting, you can decide what type of interactions you want to include. Mode = 0 is the default and is just the distance between all points in the two selections. Mode = 2 shows only the polar bonds between two selections. Read more [here](https://pymolwiki.org/index.php/Distance).
-{:.note title="PyMOL info"}
-
-> Task 14: Make a scene called F4, which shows hydrogen bonds between recognition element (residues 8-14) and DNA. Which amino acids make H-bonds to the bases? What other types of interactions contribute to binding specificity?
-{:.lead}
+Now let's see if we can try to design some enzymes.
 
 
 ### Credits
 
-The title image was taken from the [PDB 101 resource](https://pdb101.rcsb.org/motm/112), where it was posted to highlight the transcription factors Oct and Sox as molecules of the month.
+The title image was taken from the [PDB-101 resource](https://pdb101.rcsb.org/learn/flyers-posters-and-calendars/poster/award-winning-rna-polymerase-illustration), where it was presented as the national finalist in the 2019 Wiki Science Competition in the United States.
+
+
+
