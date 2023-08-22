@@ -13,7 +13,7 @@ image:
 sitemap: false
 ---
 
-# Exercise 3 - Geometric Deep Learning
+# Exercise 4 - Geometric Deep Learning
 
 
 ### Credits

@@ -13,7 +13,7 @@ image:
 sitemap: false
 ---
 
-# Exercise 2b - A Zoo of Models
+# Exercise 3 - A Zoo of Models
 
 
 ### Credits
