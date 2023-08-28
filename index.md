@@ -55,6 +55,7 @@ Whereas the main reference for the BC1 course is the classical [Lehninger](https
 - [Molecular Memory](https://www.youtube.com/playlist?list=PLUMhYZpMLtal_Z7to3by2ATHP-cI4ma5X)
 - [Brady Johnston](https://www.youtube.com/@BradyJohnston)
 - [LuminousLab](https://www.youtube.com/@LuminousLab)
+- [Erik Lindahl](https://www.youtube.com/@eriklindahl/playlists)
 
 ### Websites
 - [Programming for Lovers](https://compeau.cbd.cmu.edu/programming-for-lovers/)
