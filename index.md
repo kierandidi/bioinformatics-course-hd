@@ -17,15 +17,14 @@ The modules (with the tools we use in brackets) are:
 | 1    	| Introduction                   	| Introduction                             	| PyMol, Python, Jupyter Notebooks    	|
 | 2    	| Water                          	| ML Basics                             	| Google Colab, PyTorch               	|
 | 3    	| Protein structure and function 	| ML Architectures                         	| PyTorch                             	|
-| 4    	| Protein folding and stability  	| Geometric Deep Learning (GNNs)            | PyTorch        	                    |
-| 5    	| Enzyme catalysis               	| Protein structure prediction              | AlphaFold2, OpenFold, ESMFold       	|
-| 6    	| Carbohydrates                  	| Generative Modelling                      | VAE, GANs, Diffusion models  	        |
-| 7    	| Nucleic Acids                  	| Protein Design                            | RFDiffusion, ProteinMPNN, AF2   	    |
-| 8    	| Lipids                         	| Simulations                           	| GROMACS    	                        |
-| 9    	| Membranes                      	| Evolution and Bioinformatics     	        | Biotite, BLAST, MMSeq2, FoldSeek      |
+| 4    	| Protein folding and stability  	| Language, Evolution and Bioinformatic     | Biotite, BLAST, MMSeq2, FoldSeek      |
+| 5    	| Enzyme catalysis               	| Geometric Deep Learning (GNNs)            | PyTorch                           	|
+| 6    	| Carbohydrates                  	| Protein structure prediction              | AlphaFold2, OpenFold, ESMFold  	    |
+| 7    	| Nucleic Acids                  	| Generative Modelling                      | VAEs, Diffusion Models           	    |
+| 8    	| Lipids                         	| Protein Design                           	| RFDiffusion, ProteinMPNN, AlphaFold2  |
+| 9    	| Membranes                      	| Simulations                               | GROMACS                               |
 | 10   	| Signal transduction             	| Drug Design (Docking and Generative)     	| AutoDock, DiffDock, DiffSBDD          |
-| 11   	| End of lecture                 	| Graphics and Animations                   | PyMol, DrawIO, Inkscape           	|
-| 12   	| End of lecture                 	| Further topics and conclusion             |                                   	|
+| 11   	| End of lecture                 	| Further topics and conclusion             |                                   	|
 
 I hope you enjoy the course! In case you have any questions or feedback (or find any mistakes in the material), please feel free to contact me.
 

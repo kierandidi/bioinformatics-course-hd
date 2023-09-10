@@ -1,23 +1,21 @@
 ---
 layout: project
-title: Exercise 5 - Protein structure prediction
-caption: How to understand structure from sequence
+title: Exercise 5 - Geometric Deep Learning
+caption: How can we describe molecules on the computer?
 description: >
-  In this exercise you will be asked to use some of the structure prediction methods we talked about and understand how they work.
-date: '07-08-2023'
+  In this exercise you will get familiar with how to leverage concepts from graphs and machine learning to make your algorithm learn something about molecules
+date: '06-08-2023'
 image: 
-  path: /assets/img/lessons/protein_structure_prediction.png
+  path: /assets/img/lessons/gnn_molecules.png
 #links:
 #  - title: Link
 #    url: https://hydejack.com/
 sitemap: false
 ---
 
-# Exercise 5 - Protein structure prediction
+# Exercise 5 - Geometric Deep Learning
 
 
+### Credits
 
-
-## Credits
-
-The title image was taken from a [blog post](https://www.ptngconsulting.com/blog/machine-learning-for-protein-engineering-here-to-stay) I have written as part of my consulting activities for PTNG.
+Image was taken from the [GNN 101 notebook](https://colab.research.google.com/github/chaitjo/geometric-gnn-dojo/blob/main/geometric_gnn_101.ipynb) by Chaintaya Joshi.
