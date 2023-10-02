@@ -4,9 +4,9 @@ title: About
 cover: true
 ---
 
-# Structural Bioinformatics Course - Kieran Didi, Heidelberg University, WS 2023/24
+# Structural Bioinformatics Course 2023
 
-Hey everyone! This is a course about structural bioinformatics and tools you can use it to visualize, analyze and design proteins and other structures. It is taught in the biochemistry undergraduate course at [Heidelberg University](https://www.uni-heidelberg.de/en), but the material is open to be used by everyone. By the end of this course, you will be able to s
+Hey everyone! This is a course about structural bioinformatics and tools you can use it to visualize, analyze and design proteins and other structures. It is taught in the biochemistry undergraduate course at [Heidelberg University](https://www.uni-heidelberg.de/en), but the material is open to be used by everyone. By the end of this course, you will be able to read discuss about machine learning approaches applied to structural bioinformatics, implement your ideas and evaluate the results. You will also be able to use the tools and methods we will discuss to analyze and design proteins and other structures.
 
 This course (Structural Bioinformatics, SB) is designed to be taken in a semester-long format, but can be completed in a shorter time frame. The course is divided into 11 modules with accompanying videos and exercises. The idea is that the components in this course are complementary to each other; in some lessons you will learn more about the underlying machine learning concepts, in others you will see how these concepts are applied to biological problems. On top of that, you will get hands-on experience with some of these algorithms in the case studies and exercises provided.
 
@@ -23,7 +23,7 @@ The course content of the different weeks together with the corresponding case s
 | 7    	| Generative Modelling                      | VAEs, Diffusion Models           	    |
 | 8    	| Protein Design                           	| RFDiffusion, ProteinMPNN, AlphaFold2  |
 | 9    	| Simulations                               | GROMACS, Allegro                      |
-| 10   	|| Drug Design (Docking and Generative)     | AutoDock, DiffDock, DiffSBDD          |
+| 10   	| Drug Design (Docking and Generative)      | AutoDock, DiffDock, DiffSBDD          |
 | 11   	| Further topics and conclusion             |                                   	|
 
 I hope you enjoy the course! In case you have any questions or feedback (or find any mistakes in the material), please feel free to contact me.
