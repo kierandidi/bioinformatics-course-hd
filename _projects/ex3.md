@@ -32,9 +32,9 @@ In this exercise, we will try to understand how CNNs work by visualising the fil
 
 ## Exercise 3.3 - Coding word embeddings and Transformers
 
-To understand word embeddings, implement and follow [this tutorial](https://towardsdatascience.com/creating-word-embeddings-coding-the-word2vec-algorithm-in-python-using-deep-learning-b337d0ba17a8). The neural network code in there is written in TensorFlow, but I challenge you to rewrite it in PyTorch! It is a very simple network, the `Dense` layer in TensorFlow is equivalent to the `Linear` layer in PyTorch.
+To understand word embeddings, implement and follow [this tutorial](https://neptune.ai/blog/word-embeddings-guide).
 
-For Transformers I gave you a multitude of resources in the lecture; for this exercise, I want you to follow along [this tutorial]() and implement the code he links on GitHub in your Colab notebook. Remember that you can get a free GPU on Colab by going to `Runtime -> Change runtime type -> Hardware accelerator -> GPU`.
+For Transformers I gave you a multitude of resources in the lecture; for this exercise, I want you to follow along [this tutorial](https://peterbloem.nl/blog/transformers) and implement the code he links on GitHub in your Colab notebook. Remember that you can get a free GPU on Colab by going to `Runtime -> Change runtime type -> Hardware accelerator -> GPU`.
 
 ## Exercise 3.4 - Understanding word embeddings and Transformers
 
