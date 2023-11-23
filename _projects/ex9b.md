@@ -4,7 +4,7 @@ title: Exercise 9b - Nucleic Acids and transcription factors
 caption: Love at first sight
 description: >
   We will learn how DNA and proteins interact with each other.
-date: '12-08-2023'
+date: '13-08-2023'
 image: 
   path: /assets/img/lessons/dna_tf.png
 #links:

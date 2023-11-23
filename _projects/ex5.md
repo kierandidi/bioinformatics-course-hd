@@ -4,7 +4,7 @@ title: Exercise 5 - Geometric Deep Learning
 caption: How can we describe molecules on the computer?
 description: >
   In this exercise you will get familiar with how to leverage concepts from graphs and machine learning to make your algorithm learn something about molecules
-date: '06-08-2023'
+date: '07-08-2023'
 image: 
   path: /assets/img/lessons/gnn_molecules.png
 #links:

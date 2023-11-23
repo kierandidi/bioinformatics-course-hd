@@ -4,7 +4,7 @@ title: Exercise 8b - Enzyme Design
 caption: How enzymes do their job and how we can learn from them
 description: >
   We will look at some examples of catalysis and try our luck in designing some enzymes ourselves!
-date: '10-08-2023'
+date: '11-08-2023'
 image: 
   path: /assets/img/lessons/rna_polymerase.png
 #links:

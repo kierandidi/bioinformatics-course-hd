@@ -4,7 +4,7 @@ title: Exercise 7 - Generative Modelling
 caption: How to generate new data
 description: >
   In this exercise you will be asked to apply some the principles of generative modelling you learned in the lecture to biological problems.
-date: '08-08-2023'
+date: '09-08-2023'
 image: 
   path: /assets/img/lessons/generative_modelling.png
 #links:
