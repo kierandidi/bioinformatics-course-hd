@@ -15,6 +15,8 @@ sitemap: false
 
 # Exercise 5 - Geometric Deep Learning
 
+As part of this exercise, you will be asked to read through a notebook and answer some questions. The notebook is available [here](https://colab.research.google.com/github/chaitjo/geometric-gnn-dojo/blob/main/geometric_gnn_101.ipynb). You will learn how to use PyTorch Geometric to implement the message passing framework we discussed in the lecture, and see how you can apply these principles to molecules.
+
 
 ### Credits
 
