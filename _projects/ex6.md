@@ -34,7 +34,7 @@ In this part, you will be asked to use different methods to predict a protein st
 
 1. Do [Lab 13 from this course on GitHub](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/2021/lab13_protDCASBM.ipynb). Here you will use an old-school co-evolution method called Direct Coupling Analysis (DCA) to predict the structure of a protein. What do you think about the results? 
 2. Do [Lab 14 from this course on GitHub](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/2023/lab14_MSAtransformer.ipynb). Here you will use a more modern method called MSA Transformer and pair it with a Potts model (discussed in the lecture) to predict the structure of a protein. What do you think about the results? How do they compare to DCA?
-3. Finally, do [Lab 15 from this course on GitHub](hthttps://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/2022/lab15_CF-GROMACS.ipynb) (only do part I; part II deals with molecular dynamics simulations, a topic we will discuss in more detail in lecture 9). Here you will use AlphaFold to predict the structure of a protein. What do you think about the results? How do they compare to DCA and MSA Transformer?
+3. Finally, do [Lab 15 from this course on GitHub](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/2022/lab15_CF-GROMACS.ipynb) (only do part I; part II deals with molecular dynamics simulations, a topic we will discuss in more detail in lecture 9). Here you will use AlphaFold to predict the structure of a protein. What do you think about the results? How do they compare to DCA and MSA Transformer?
 
 ## Credits
 
