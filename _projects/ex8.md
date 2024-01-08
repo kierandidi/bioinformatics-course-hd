@@ -29,19 +29,22 @@ Read [this older review](https://www.cambridge.org/core/journals/quarterly-revie
 6. What are the main ways to design a protein nowadays? Which paradigms do they follow (e.g. structure to sequence etc.)?
 7. What are the main challenges in protein design? How can we overcome them?
 
-## Part 2: Practice
+## Part 2: Getting a feel for Protein Design
+
+In this part, you will explore the determining factors in what makes a stable protein and how to design one. For this, download the [FoldIt](https://fold.it/) game and play around with it. It is a game that allows you to fold as well as design proteins and is a great way to get a feel for the problem. You can even contribute to current research projects with it!
+
+For the sake of the course, focus on getting levels 1-9 in the Education section done, but feel free to explore more!
+
+## Part 3: Practice
 
 Have a look at the [RFDiffusion paper](https://www.nature.com/articles/s41586-023-06415-8) and the accompanying [GitHub repository](https://github.com/RosettaCommons/RFdiffusion). Do the same thing for the [Chroma paper](https://www.nature.com/articles/s41586-023-06728-8) and the [GitHub repository](https://github.com/generatebio/chroma). What are the main differences between the two approaches? What are the advantages and disadvantages of each?
 
-Try to design.
+Try to design a protein with both models. Try first to design a protein without any constraints (unconditional design) and then try to design a protein that binds to a target you specify (conditional design). For this, choose the target with the PDB ID 4N5T (a description of how you can specify these conditional constraints can be found at the bottom of the notebook).
 
 For this, you can use the [RFDiffusion Colab notebook](https://colab.research.google.com/github/sokrypton/ColabDesign/blob/main/rf/examples/diffusion.ipynb). For Chroma you can use [the templates they provide on the GitHub repository](https://colab.research.google.com/github/generatebio/chroma/blob/main/notebooks/ChromaDemo.ipynb) (for this you will need to register and get an API key, so no worries if you do not want to do this). 
 
 If you use both models: how is their output different? How do you need to change your evaluation pipeline to account for this?
 
-Evaluate your designs with the appropriate metrics and tools we discussed in the lecture, either directly provided by the notebooks you are in or by using them separately. 
+Evaluate your designs with the appropriate metrics and tools we discussed in the lecture, either directly provided by the notebooks you are in or by using them separately (hints: ProteinMPNN and AlphaFold2 are commonly part of many evaluation pipelines).
 
-How well did you do? What are the main challenges you encountered? What are the main challenges in protein design in general? Why might the target I gave you be particularly easy?
-
-
-
+How well did you do? What are the main challenges you encountered? What are the main challenges in protein design in general? Do you see any bias in terms of secondary structure or structural motifs in the unconditional and conditional designs you get? Why might the target I gave you for the conditional case be particularly easy?

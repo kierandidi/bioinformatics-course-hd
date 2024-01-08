@@ -67,8 +67,6 @@ Due to the massive problem of plastic pollution worldwide, there is enormous int
 > Task 6: Skim the paper and shortly summarise the rough approach the authors took. Which of the paradigms of machine learning (supervised learning, reinforcement learning, ...) did they use? What is the input and output to their model, and what data did they train/test their model on?
 {:.lead}
 
-Now let's see if we can try to design some enzymes.
-
 
 ### Credits
 
