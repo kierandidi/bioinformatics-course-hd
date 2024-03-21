@@ -101,7 +101,7 @@ The information tells us that in object 1BL8, segment A, chain A, we clicked on 
 | &zeta;     | zeta          | Z        |
 | &nu;       | nu            | H        |
 
-C$\alpha$ is thus called CA, O$\gamma$ is called OG and so on. Sometimes (e.g. in Asp) there may be two identical atoms in the same position, whereby they are named 1 and 2, e.g. the two carboxyl atoms in Asp are called OD1 and OD2.
+C$$\alpha$$ is thus called CA, O$$\gamma$$ is called OG and so on. Sometimes (e.g. in Asp) there may be two identical atoms in the same position, whereby they are named 1 and 2, e.g. the two carboxyl atoms in Asp are called OD1 and OD2.
 
 Note that the entire residue (11 atoms) is selected when clicking on one atom. This functionality is controlled in the `Mouse>Selection Mode`. 
 
